@@ -2,7 +2,7 @@
 main:
     
   - title: "CV"
-    url: /assets/merfeld_cv.pdf
+    url: /assets/cv/merfeld_cv.pdf
     
   - title: "Publications"
     url: /publications/

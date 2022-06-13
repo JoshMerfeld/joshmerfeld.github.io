@@ -13,13 +13,13 @@ author_profile: true
 
 
 
-**Sectoral Wage Gaps and Gender in Rural India**. IZA Discussion Paper No. 14391, second revision requested, _American Journal of Agricultural Economics_. Available [<ins>here</ins>](assets/papers/Merfeld_Wages.pdf).
+**Sectoral Wage Gaps and Gender in Rural India**. IZA Discussion Paper No. 14391, second revision requested, _American Journal of Agricultural Economics_. Available [<ins>here</ins>]("assets/papers/Merfeld_Wages.pdf").
 
 **Combining Survey and Geospatial Data Can Significantly Improve Gender-Disaggregated Estimates of Labor Market Outcomes** (with David Newhouse, Michael Weber, and Partha Lahiri). World Bank Policy Research Working Paper 10077, available [<ins>here</ins>](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099321406092229138/idu016f95e0806fc6044ea0b843007d5dc0ef17e).
 
-**Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri). Draft available [<ins>here</ins>](assets/papers/merfeld_et_al_SAEpovertyMexico.pdf).
+**Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri). Draft available [<ins>here</ins>]("assets/papers/merfeld_et_al_SAEpovertyMexico.pdf").
 
-**Labor Elasticities, Market Failures, and Misallocation: Evidence from Indian Agriculture**. Most recent version (of IZA Discussion Paper No. 13682 and previously entitled "Smallholders, Market Failures, and Agricultural Production: Evidence from India") available [<ins>here</ins>](assets/papers/merfeld_markets.pdf). 
+**Labor Elasticities, Market Failures, and Misallocation: Evidence from Indian Agriculture**. Most recent version (of IZA Discussion Paper No. 13682 and previously entitled "Smallholders, Market Failures, and Agricultural Production: Evidence from India") available [<ins>here</ins>]("assets/papers/merfeld_markets.pdf"). 
 
 
 
