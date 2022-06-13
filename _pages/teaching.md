@@ -6,20 +6,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
-# <center> _Under construction_ </center>
-- - -
-
-
-# KDIS
+_Under construction_
+ <!-- # <center> _Under construction_ </center> -->
 
 
-
-
-# NYU
-
-
-
-
-# UW
 
