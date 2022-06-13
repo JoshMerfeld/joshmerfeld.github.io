@@ -24,7 +24,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 sing detailed monthly household panel data from rural India, this paper analyzes sectoral wage gaps for men and women. I show that the wage gap across the non-farm and farm sector is much higher for women than for men. Relative to men, women also work less time in non-farm wage employment than in farm wage employment. Taken together, these findings suggest that constraints are preventing women from reallocating their time to more remunerative wage employment opportunities. Women are less likely to work outside of their own village in the non-farm sector, yet the wage gap is driven by higher-caste and married women. These results are consistent with a lack of local non-farm employment opportunities interacting with barriers to labor mobility for women but not men.
 </small><br><br/></div>
 
-[wageGapsPaper]: assets/papers/Merfeld_Wages.pdf
+[wageGapsPaper]: "assets/papers/Merfeld_Wages.pdf"
 
 
 
