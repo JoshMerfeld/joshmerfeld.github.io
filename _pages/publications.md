@@ -1,6 +1,6 @@
 ---
 title: 
-layout: single
+layout: archive
 classes: wide
 permalink: /publications/
 author_profile: true
