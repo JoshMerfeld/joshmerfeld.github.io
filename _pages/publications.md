@@ -6,7 +6,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=wPPXKHcAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=wPPXKHcAAAAJ&hl=en">my Google Scholar profile</a>.</u> If you'd like to read one of these papers and do not have access ot them, please e-mail me!
+
 
 
 <!-- Google Tag Manager (noscript) -->
@@ -17,7 +18,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Publications </center>
 - - -
 
-If you'd like to read one of these papers and do not have access ot them, please e-mail me!
+
 
 - "The Importance of Specification Choices when Analyzing Sectoral Productivity Gaps" with Peter Brummund. _Forthcoming_ at _Agricultural Economics_.
 - "Should Farmers Farm More? Comparing Marginal Products within Malawian Households" with Peter Brummund. _Agricultural Economics_, 53(2): 289-306.
