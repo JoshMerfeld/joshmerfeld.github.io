@@ -81,9 +81,7 @@ google_analytics          : "UA-110056266-1"
 author:
   name             : "Josh Merfeld"
   avatar           : "merfeld.png"
-#  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
-#  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
-  bio              : "Development Economist <br> <br> Assistant Professor at KDI School <br> Research Affiliate, IZA"
+  bio              : "Development, labor, poverty, and data <br> <br> Assistant Professor at the KDI School <br> Research Affiliate, IZA"
   location         : "Sejong City, South Korea"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=wPPXKHcAAAAJ&hl=en"
