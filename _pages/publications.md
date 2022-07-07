@@ -14,7 +14,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 # <center> Publications </center>
 - - -
 
-
+**Sectoral Wage Gaps and Gender in Rural India**. Accepted, _American Journal of Agricultural Economics_.
 
 **The Importance of Specification Choices when Analyzing Sectoral Productivity Gaps** (with Peter Brummund). _Agricultural Economics_, forthcoming.
 
