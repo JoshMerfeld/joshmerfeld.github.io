@@ -18,7 +18,7 @@ author_profile: true
 
 **Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri). Draft available [<ins>here</ins>](/assets/papers/merfeld_et_al_SAEpovertyMexico.pdf). _New draft soon_.
 
-**How Well Can Real-Time Indicators Track the Economic Impacts of a Crisis Like COVID-19?** (Gi Khan Ten, Kibrom Tafere Hirfrfot, David Newhouse, and Utz Pape). World Bank Policy Research Working Paper 10080, available [<ins>here</ins>](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099348106132213539/idu034674d8d08ccf04d860b5170b3cb8446db97).
+**How Well Can Real-Time Indicators Track the Economic Impacts of a Crisis Like COVID-19?** (with Gi Khan Ten, Kibrom Tafere Hirfrfot, David Newhouse, and Utz Pape). World Bank Policy Research Working Paper 10080, available [<ins>here</ins>](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099348106132213539/idu034674d8d08ccf04d860b5170b3cb8446db97).
 
 
 
