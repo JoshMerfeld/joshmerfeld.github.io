@@ -6,7 +6,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=wPPXKHcAAAAJ&hl=en">my Google Scholar profile</a>.</u> If you'd like to read one of these papers and do not have access ot them, please e-mail me!
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=wPPXKHcAAAAJ&hl=en">my Google Scholar profile</a>.</u> If you'd like to read one of these papers and do not have access to them, please e-mail me!
 <br>
 
 
