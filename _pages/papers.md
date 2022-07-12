@@ -13,7 +13,7 @@ author_profile: true
 
 
 **Combining Survey and Geospatial Data Can Significantly Improve Gender-Disaggregated Estimates of Labor Market Outcomes** (with David Newhouse, Michael Weber, and Partha Lahiri). World Bank Policy Research Working Paper 10077, available [<ins>here</ins>](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099321406092229138/idu016f95e0806fc6044ea0b843007d5dc0ef17e). _Under review_.<br/>
-<small>[ <a href="#/" onclick="visib('genderLabor')">Abstract</a>] </small>
+<small>[ <a href="#" onclick="visib('genderLabor')">Abstract</a>] </small>
 
 <div id="genderLabor" style="display: none; text-align: justify; line-height: 1.2">
 <small>
