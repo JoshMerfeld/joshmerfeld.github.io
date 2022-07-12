@@ -33,7 +33,7 @@ This paper presents evidence of misallocation across households in rural Indian 
 
 
 
-**How Well Can Real-Time Indicators Track the Economic Impacts of a Crisis Like COVID-19?** (with Gi Khan Ten, Kibrom Tafere Hirfrfot, David Newhouse, and Utz Pape). World Bank Policy Research Working Paper 10080.<br/>
+**How Well Can Real-Time Indicators Track the Economic Impacts of a Crisis Like COVID-19?** (with Gi Khan Ten, Kibrom Tafere Hirfrfot, David Newhouse, and Utz Pape). World Bank Policy Research Working Paper 10080. _Under review_.<br/>
 <small>[ <a href="#/" onclick="document.getElementById('covid').style.display = 'block';">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099348106132213539/idu034674d8d08ccf04d860b5170b3cb8446db97) ] </small>
 
 
