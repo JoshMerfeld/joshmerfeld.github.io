@@ -12,7 +12,7 @@ permalink: /papers/
 
 
 **Combining Survey and Geospatial Data Can Significantly Improve Gender-Disaggregated Estimates of Labor Market Outcomes** (with David Newhouse, Michael Weber, and Partha Lahiri). World Bank Policy Research Working Paper 10077. _Under review_.<br/>
-<small>[ <a href="#/" onclick="document.getElementById('genderLabor').style.display = 'block';">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099321406092229138/idu016f95e0806fc6044ea0b843007d5dc0ef17e) ] </small>
+<small>[ <a href="#/" onclick="visib('genderLabor')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099321406092229138/idu016f95e0806fc6044ea0b843007d5dc0ef17e) ] </small>
 
 
 <div id="genderLabor" style="display: none; text-align: justify; line-height: 1.2">
@@ -23,7 +23,7 @@ This article examines the extent to which combining survey data with publicly av
 
 
 **Labor Elasticities, Market Failures, and Misallocation: Evidence from Indian Agriculture**. IZA Discussion Paper No. 13682, previously entitled "Smallholders, Market Failures, and Agricultural Production: Evidence from India". _Under review_.<br/>
-<small>[ <a href="#/" onclick="document.getElementById('labor').style.display = 'block';">Abstract</a> | [Draft](/assets/papers/merfeld_markets.pdf) ] </small>
+<small>[ <a href="#/" onclick="visib('labor')">Abstract</a> | [Draft](/assets/papers/merfeld_markets.pdf) ] </small>
 
 
 <div id="labor" style="display: none; text-align: justify; line-height: 1.2">
@@ -34,7 +34,7 @@ This paper presents evidence of misallocation across households in rural Indian 
 
 
 **How Well Can Real-Time Indicators Track the Economic Impacts of a Crisis Like COVID-19?** (with Gi Khan Ten, Kibrom Tafere Hirfrfot, David Newhouse, and Utz Pape). World Bank Policy Research Working Paper 10080. _Under review_.<br/>
-<small>[ <a href="#/" onclick="document.getElementById('covid').style.display = 'block';">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099348106132213539/idu034674d8d08ccf04d860b5170b3cb8446db97) ] </small>
+<small>[ <a href="#/" onclick="visib('covid')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099348106132213539/idu034674d8d08ccf04d860b5170b3cb8446db97) ] </small>
 
 
 <div id="covid" style="display: none; text-align: justify; line-height: 1.2">
@@ -45,7 +45,7 @@ This paper presents evidence on the extent to which a set of real-time indicator
 
 
 **Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with David Newhouse, Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri). _New draft soon_.<br/>
-<small>[ <a href="#/" onclick="document.getElementById('satellite').style.display = 'block';">Abstract</a> | [Draft](/assets/papers/merfeld_et_al_SAEpovertyMexico.pdf) ] </small>
+<small>[ <a href="#/" onclick="visib('satellite')">Abstract</a> | [Draft](/assets/papers/merfeld_et_al_SAEpovertyMexico.pdf) ] </small>
 
 
 <div id="satellite" style="display: none; text-align: justify; line-height: 1.2">
@@ -78,4 +78,19 @@ Estimates of poverty are an important input into policy formulation in developin
 
 **Expanding childhood vaccinations through digital outreach: Evidence from a randomized experiment** (with Will Seitz and Shun Wang)
 
+
+
+
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
 
