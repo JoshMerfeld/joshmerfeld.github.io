@@ -31,6 +31,8 @@ author_profile: true
 
 **Poverty at High Frequency** (with Jonathan Morduch). _Draft soon_.
 
+**Using Geospatial Data and Machine Learning to Estimate Poverty Rates and Uncertainty** (with David Newhouse).
+
 **Does the timing of the school year affect child labor decisions in developing countries?** (with Alex Eble).
 
 **Can We Predict Movements in and out of Poverty? Applying Machine Learning to Household Surveys in East Africa** (with Linden McBride).
@@ -42,7 +44,5 @@ author_profile: true
 **Does digitizing access to welfare programs improve access? Evidence from a randomized experiment** (with Will Seitz and Shun Wang).
 
 **Expanding childhood vaccinations through digital outreach: Evidence from a randomized experiment** (with Will Seitz and Shun Wang)
-
-**Decentralization and Program Implementation** (with Ashwini Deshpande).
 
 
