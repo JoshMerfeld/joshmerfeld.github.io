@@ -21,11 +21,37 @@ This article examines the extent to which combining survey data with publicly av
 </small><br><br/></div>
 
 
-**Labor Elasticities, Market Failures, and Misallocation: Evidence from Indian Agriculture**. Most recent version (of IZA Discussion Paper No. 13682 and previously entitled "Smallholders, Market Failures, and Agricultural Production: Evidence from India") available [<ins>here</ins>](/assets/papers/merfeld_markets.pdf). _Under review_.
 
-**Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri). Draft available [<ins>here</ins>](/assets/papers/merfeld_et_al_SAEpovertyMexico.pdf). _New draft soon_.
+**Labor Elasticities, Market Failures, and Misallocation: Evidence from Indian Agriculture**. (ZA Discussion Paper No. 13682, previously entitled "Smallholders, Market Failures, and Agricultural Production: Evidence from India"). _Under review_.<br/>
+<small>[ <a href="#/" onclick="document.getElementById('labor').style.display = 'block';">Abstract</a> | [Draft](/assets/papers/merfeld_markets.pdf) ] </small>
 
-**How Well Can Real-Time Indicators Track the Economic Impacts of a Crisis Like COVID-19?** (with Gi Khan Ten, Kibrom Tafere Hirfrfot, David Newhouse, and Utz Pape). World Bank Policy Research Working Paper 10080, available [<ins>here</ins>](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099348106132213539/idu034674d8d08ccf04d860b5170b3cb8446db97).
+
+<div id="labor" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+This paper presents evidence of misallocation across households in rural Indian agriculture. I show that household demographics predict own farm labor demand for smallholder farmers but not non-smallholder farmers. A simple model of labor allocation predicts a clear consequence of this duality: smallholder farmers will reallocate labor across plots less in response to price changes than non-smallholders. Detailed household panel data confirms this theoretical prediction. Three additional facts suggest that a lack of off-farm labor opportunities may be partly responsible for the behavior of smallholders, leading smallholders to overallocate labor to agricultural production. First, smallholders report fewer hours of involuntary unemployment when own crop prices increase. Second, yield is substantially higher for smallholders on plots of the same size. Finally, estimated marginal revenue products of labor are consistently lower for smallholders.
+</small><br><br/></div>
+
+
+
+**How Well Can Real-Time Indicators Track the Economic Impacts of a Crisis Like COVID-19?** (with Gi Khan Ten, Kibrom Tafere Hirfrfot, David Newhouse, and Utz Pape). World Bank Policy Research Working Paper 10080.<br/>
+<small>[ <a href="#/" onclick="document.getElementById('covid').style.display = 'block';">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099348106132213539/idu034674d8d08ccf04d860b5170b3cb8446db97) ] </small>
+
+
+<div id="covid" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+This paper presents evidence on the extent to which a set of real-time indicators tracked changes in gross domestic product across 142 countries in 2020. The real-time indicators include Google mobility, Google search trends, food price information, nitrogen dioxide, and nighttime lights. Google mobility and staple food prices both declined sharply in March and April, followed by a rapid recovery that returned to baseline levels by July and August. Mobility and staple food prices fell less in low-income countries. Nitrogen dioxide levels show a similar pattern, with a steep fall and rapid recovery in high-income and upper-middle-income countries but not in low-income and lower-middle-income countries. In April and May, Google search terms reflecting economic distress and religiosity spiked in some regions but not others. Data on nighttime lights show no clear drop in March outside East Asia. Linear models selected using the Least Absolute Shrinkage and Selection Operator explain about a third of the variation in annual gross domestic product growth rates across 72 countries. In a smaller subset of higher income countries, real-time indicators explain about 40 percent of the variation in quarterly gross domestic product growth. Overall, mobility and food price data, as well as pollution data in more developed countries, appeared to be best at capturing the widespread economic disruption experienced during the summer of 2020. The results indicate that these real-time indicators can track a substantial percentage of both annual and quarterly changes in gross domestic product.
+</small><br><br/></div>
+
+
+
+**Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with David Newhouse, Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri). _New draft soon_.<br/>
+<small>[ <a href="#/" onclick="document.getElementById('satellite').style.display = 'block';">Abstract</a> | [Draft](/assets/papers/merfeld_et_al_SAEpovertyMexico.pdf) ] </small>
+
+
+<div id="satellite" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+Estimates of poverty are an important input into policy formulation in developing countries. The accurate measurement of poverty rates is therefore a first-order problem for development policy. This paper shows that combining satellite imagery with household surveys can improve the precision and accuracy of estimated poverty rates in Mexican municipalities, a level at which the survey is not considered representative. It also shows that a household-level model outperforms other common small area estimation methods. These results indicate that the incorporation of household survey data and widely available satellite imagery can improve poverty estimates in developing countries, even for small subgroups.
+</small><br><br/></div>
 
 
 
