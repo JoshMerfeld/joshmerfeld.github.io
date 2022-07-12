@@ -22,7 +22,7 @@ This article examines the extent to which combining survey data with publicly av
 
 
 
-**Labor Elasticities, Market Failures, and Misallocation: Evidence from Indian Agriculture**. (ZA Discussion Paper No. 13682, previously entitled "Smallholders, Market Failures, and Agricultural Production: Evidence from India"). _Under review_.<br/>
+**Labor Elasticities, Market Failures, and Misallocation: Evidence from Indian Agriculture**. IZA Discussion Paper No. 13682, previously entitled "Smallholders, Market Failures, and Agricultural Production: Evidence from India". _Under review_.<br/>
 <small>[ <a href="#/" onclick="document.getElementById('labor').style.display = 'block';">Abstract</a> | [Draft](/assets/papers/merfeld_markets.pdf) ] </small>
 
 
