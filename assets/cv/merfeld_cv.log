@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  10 JUL 2022 13:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  12 JUL 2022 10:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -330,10 +330,10 @@ cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 l10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
 10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmu10
 .pfb>
-Output written on merfeld_cv.pdf (3 pages, 102146 bytes).
+Output written on merfeld_cv.pdf (3 pages, 102240 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
+ 79 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  18 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
