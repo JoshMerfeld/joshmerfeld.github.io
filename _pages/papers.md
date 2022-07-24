@@ -10,7 +10,7 @@ permalink: /papers/
 # <center> Working Papers </center>
 - - -
 
-**Poverty at High Frequency** (with Jonathan Morduch).<br/>
+**Poverty at Higher Frequency** (with Jonathan Morduch).<br/>
 <small>[ <a href="#/" onclick="visib('povAbstract')">Abstract</a> | [Draft](/assets/papers/MerfeldMorduch(2022).pdf) ] </small>
 
 
