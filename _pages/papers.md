@@ -11,7 +11,7 @@ permalink: /papers/
 - - -
 
 **Poverty at High Frequency** (with Jonathan Morduch).<br/>
-<small>[ <a href="#/" onclick="visib('povAbstract')">Abstract</a> | [Draft](/assets/papers/Merfeld_and_Morduch_(2022).pdf) ] </small>
+<small>[ <a href="#/" onclick="visib('povAbstract')">Abstract</a> | [Draft](/assets/papers/MerfeldMorduch(2022).pdf) ] </small>
 
 
 <div id="povAbstract" style="display: none; text-align: justify; line-height: 1.2">
