@@ -10,6 +10,15 @@ permalink: /papers/
 # <center> Working Papers </center>
 - - -
 
+**Poverty at High Frequency** (with Jonathan Morduch).<br/>
+<small>[ <a href="#/" onclick="visib('povAbstract')">Abstract</a> | [Draft](https://joshmerfeld.github.io/assets/papers/Merfeld_and_Morduch_(2022).pdf) ] </small>
+
+
+<div id="povAbstract" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+One of the sharpest and most common simplifications when measuring poverty has been to define poverty as a deficiency in yearly income or yearly consumption. The measures approximate the experience of poverty for those households whose income is steady or who can smooth consumption through the year. In reality, however, the experience of poverty is often marked by seasonality, economic instability, and illiquidity across months. To capture these elements, we introduce a measurement framework based on a straightforward generalization of conventional poverty measures, defining annual poverty as the average of monthly poverty measures. Using monthly panel data from India, we explore ways that the conventional approach to measurement can underestimate and mischaracterize the experience of poverty when households face the dual challenges of low incomes and instability. We show that experiences of poverty are substantially more common than annual measures suggest. Entry into and exit from poverty are much less clear than typically assumed, and the proposed measure is a stronger predictor of development outcomes -- weight and height -- than conventional measures. Correspondingly, the framework shows how interventions that re-distribute resources between periods can lessen the experience of poverty by improving consumption smoothing, even when conventional poverty measures based on yearly resources are unchanged or worsening. In considering hypothetical monthly transfers to households facing economic instability, for example, we show that targeting transfers to the most challenging months -- rather than spreading them through the year as in typical cash transfer programs -- can most cost-effectively reduce experiences of poverty.
+</small><br><br/></div>
+
 
 **Combining Survey and Geospatial Data Can Significantly Improve Gender-Disaggregated Estimates of Labor Market Outcomes** (with David Newhouse, Michael Weber, and Partha Lahiri). World Bank Policy Research Working Paper 10077. _Under review_.<br/>
 <small>[ <a href="#/" onclick="visib('genderLabor')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099321406092229138/idu016f95e0806fc6044ea0b843007d5dc0ef17e) ] </small>
@@ -61,8 +70,6 @@ Estimates of poverty are an important input into policy formulation in developin
 
 # <center> Works in progress </center>
 - - -
-
-**Poverty at High Frequency** (with Jonathan Morduch). _Draft soon_.
 
 **Using Geospatial Data and Machine Learning to Estimate Poverty Rates and Uncertainty** (with David Newhouse).
 
