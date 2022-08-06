@@ -5,6 +5,8 @@ classes: wide
 permalink: /teaching/
 author_profile: true
 ---
+<br/> 
+
 
 # <center> Teaching </center>
 - - -
