@@ -53,8 +53,8 @@ This paper presents evidence on the extent to which a set of real-time indicator
 
 
 
-**Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with David Newhouse, Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri). _New draft soon_.<br/>
-<small>[ <a href="#/" onclick="visib('satellite')">Abstract</a> [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099430309142231728/idu0660868530404c0414e0bf180797b525682a5) ] </small>
+**Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with David Newhouse, Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri).<br/>
+<small>[ <a href="#/" onclick="visib('satellite')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099430309142231728/idu0660868530404c0414e0bf180797b525682a5) ] </small>
 
 
 <div id="satellite" style="display: none; text-align: justify; line-height: 1.2">
