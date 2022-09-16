@@ -54,12 +54,12 @@ This paper presents evidence on the extent to which a set of real-time indicator
 
 
 **Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with David Newhouse, Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri). _New draft soon_.<br/>
-<small>[ <a href="#/" onclick="visib('satellite')">Abstract</a> | [Draft](/assets/papers/merfeld_et_al_SAEpovertyMexico.pdf) ] </small>
+<small>[ <a href="#/" onclick="visib('satellite')">Abstract</a> [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099430309142231728/idu0660868530404c0414e0bf180797b525682a5) ] </small>
 
 
 <div id="satellite" style="display: none; text-align: justify; line-height: 1.2">
 <small>
-Estimates of poverty are an important input into policy formulation in developing countries. The accurate measurement of poverty rates is therefore a first-order problem for development policy. This paper shows that combining satellite imagery with household surveys can improve the precision and accuracy of estimated poverty rates in Mexican municipalities, a level at which the survey is not considered representative. It also shows that a household-level model outperforms other common small area estimation methods. These results indicate that the incorporation of household survey data and widely available satellite imagery can improve poverty estimates in developing countries, even for small subgroups.
+Estimates of poverty are an important input into policy formulation in developing countries. The accurate measurement of poverty rates is therefore a first-order problem for development policy. This paper shows that combining satellite imagery with household surveys can improve the precision and accuracy of estimated poverty rates in Mexican municipalities, a level at which the survey is not considered representative. It also shows that a household-level model outperforms other common small area estimation methods. However, poverty estimates in 2015 derived from geospatial data remain less accurate than 2010 estimates derived from household census data. These results indicate that the incorporation of household survey data and widely available satellite imagery can improve on existing poverty estimates in developing countries when census data are old or when patterns of poverty are changing rapidly, even for small subgroups.
 </small><br><br/></div>
 
 
