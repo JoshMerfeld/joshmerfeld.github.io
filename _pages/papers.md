@@ -42,18 +42,8 @@ This paper presents evidence of misallocation across households in rural Indian 
 
 
 
-**How Well Can Real-Time Indicators Track the Economic Impacts of a Crisis Like COVID-19?** (with Gi Khan Ten, Kibrom Tafere Hirfrfot, David Newhouse, and Utz Pape). World Bank Policy Research Working Paper 10080. _Under review_.<br/>
-<small>[ <a href="#/" onclick="visib('covid')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099348106132213539/idu034674d8d08ccf04d860b5170b3cb8446db97) ] </small>
 
-
-<div id="covid" style="display: none; text-align: justify; line-height: 1.2">
-<small>
-This paper presents evidence on the extent to which a set of real-time indicators tracked changes in gross domestic product across 142 countries in 2020. The real-time indicators include Google mobility, Google search trends, food price information, nitrogen dioxide, and nighttime lights. Google mobility and staple food prices both declined sharply in March and April, followed by a rapid recovery that returned to baseline levels by July and August. Mobility and staple food prices fell less in low-income countries. Nitrogen dioxide levels show a similar pattern, with a steep fall and rapid recovery in high-income and upper-middle-income countries but not in low-income and lower-middle-income countries. In April and May, Google search terms reflecting economic distress and religiosity spiked in some regions but not others. Data on nighttime lights show no clear drop in March outside East Asia. Linear models selected using the Least Absolute Shrinkage and Selection Operator explain about a third of the variation in annual gross domestic product growth rates across 72 countries. In a smaller subset of higher income countries, real-time indicators explain about 40 percent of the variation in quarterly gross domestic product growth. Overall, mobility and food price data, as well as pollution data in more developed countries, appeared to be best at capturing the widespread economic disruption experienced during the summer of 2020. The results indicate that these real-time indicators can track a substantial percentage of both annual and quarterly changes in gross domestic product.
-</small><br><br/></div>
-
-
-
-**Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with David Newhouse, Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri).<br/>
+**Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with David Newhouse, Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri). _Under review_.<br/>
 <small>[ <a href="#/" onclick="visib('satellite')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099430309142231728/idu0660868530404c0414e0bf180797b525682a5) ] </small>
 
 
@@ -73,7 +63,7 @@ Estimates of poverty are an important input into policy formulation in developin
 
 **Validating approaches to poverty prediction: Small area estimation vs. machine learning** with David Newhouse.
 
-**Human capital prediction in developing countries: Machine learning approaches** with Chris Barrett, David Newhouse, Liz Tennant, Joanna Upton, and Michael Weber.
+**Human capital prediction in developing countries** with Chris Barrett, David Newhouse, Liz Tennant, Joanna Upton, and Michael Weber.
   
 **Does the timing of the school year affect child labor decisions in developing countries?** with Alex Eble.
 
