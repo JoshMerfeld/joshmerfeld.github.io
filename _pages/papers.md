@@ -61,6 +61,8 @@ Estimates of poverty are an important input into policy formulation in developin
 # <center> Works in progress </center>
 - - -
 
+**Minimum wages, labour market flexibility, and agricultural employment: Evidence from South Africa** with Matthew Sharp. Draft soon.
+
 **Validating approaches to poverty prediction: Small area estimation vs. machine learning** with David Newhouse.
 
 **Human capital prediction in developing countries** with Chris Barrett, David Newhouse, Liz Tennant, Joanna Upton, and Michael Weber.
