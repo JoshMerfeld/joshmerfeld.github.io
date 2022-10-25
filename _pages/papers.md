@@ -55,13 +55,25 @@ Estimates of poverty are an important input into policy formulation in developin
 
 
 
+**Minimum wages and shocks to agricultural employment: Evidence from South Africa** (with Matthew Sharp). _Under review_.<br/>
+<small>[ <a href="#/" onclick="visib('agWages')">Abstract</a> | [Draft available upon request] ] </small>
+
+
+<div id="agWages" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+In developing countries, where wages can move seasonally following agricultural productivity, the imposition of a wage floor -- in the form of a minimum wage -- can affect how the labour market responds to productivity shocks. Using data from South Africa, we show that an agricultural minimum wage leads to larger variance in employment, hours worked, and income in the agricultural sector in response to agricultural productivity shocks. Notably, this increase in variance happens alongside an overall increase in average hours worked and wages in the sector. These positive results with respect to the first moment hide important changes in the second moment -- changes that may have important effects on welfare.
+</small><br><br/></div>
+
+
+
+
+
+
 
 
 
 # <center> Works in progress </center>
 - - -
-
-**Minimum wages and shocks to agricultural employment: Evidence from South Africa** with Matthew Sharp. Draft soon.
 
 **New approaches to estimating small area welfare in developing countries: Validation from four countries** with David Newhouse. Draft soon.
 
