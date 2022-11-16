@@ -55,13 +55,13 @@ Estimates of poverty are an important input into policy formulation in developin
 
 
 
-**Minimum wages and shocks to agricultural employment: Evidence from South Africa** (with Matthew Sharp).<br/>
+**Minimum wages and productivity shocks: Evidence from South Africa** (with Matthew Sharp).<br/>
 <small>[ <a href="#/" onclick="visib('agWages')">Abstract</a> | Draft available upon request ] </small>
 
 
 <div id="agWages" style="display: none; text-align: justify; line-height: 1.2">
 <small>
-In developing countries, where wages can move seasonally following agricultural productivity, the imposition of a wage floor -- in the form of a minimum wage -- can affect how the labour market responds to productivity shocks. Using data from South Africa, we show that an agricultural minimum wage leads to larger variance in employment, hours worked, and income in the agricultural sector in response to agricultural productivity shocks. Notably, this increase in variance happens alongside an overall increase in average hours worked and wages in the sector. These positive results with respect to the first moment hide important changes in the second moment -- changes that may have important effects on welfare.
+In developing countries, where wages can move seasonally following agricultural productivity, the imposition of a wage floor -- in the form of a minimum wage -- can affect how the labour market responds to productivity shocks. Using data from South Africa, we show that an agricultural minimum wage leads to higher average wages without any impact on employment. However, this seemingly positive results with respect to the overall mean hide important heterogeneity across different states of the world: the imposition of the minimum wage leads to decreases in overall employment and income in the sector during times of low agricultural productivity, when there is usually downward pressure on wages. The fact this happens during periods of low agricultural productivity is especially important for determining the overall welfare effects of the new minimum wage.
 </small><br><br/></div>
 
 
@@ -76,18 +76,12 @@ In developing countries, where wages can move seasonally following agricultural 
 - - -
 
 **New approaches to estimating small area welfare in developing countries: Validation from four countries** with David Newhouse. Draft soon.
-
-**Human capital prediction in developing countries** with Chris Barrett, David Newhouse, Liz Tennant, Joanna Upton, and Michael Weber.
   
 **Does the timing of the school year affect child labor decisions in developing countries?** with Alex Eble.
 
-**Structural Transformation in a Changing Climate** with Rajeev Dehejia.
-
 **Gender and hiring in SMEs: Evidence from an RCT in Bangladesh** with Asad Islam and Emily Beam.
 
-**Does digitizing access to welfare programs improve access? Evidence from a randomized experiment** with Will Seitz and Shun Wang.
-
-**Expanding childhood vaccinations through digital outreach: Evidence from a randomized experiment** with Will Seitz and Shun Wang.
+**Structural Transformation in a Changing Climate** with Rajeev Dehejia.
 
 
 
