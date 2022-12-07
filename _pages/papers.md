@@ -43,6 +43,7 @@ One of the sharpest and most common simplifications when measuring poverty has b
 </small><br><br/></div>
 
 
+
 **Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with David Newhouse, Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri). _Under review_.<br/>
 <small>[ <a href="#/" onclick="visib('satellite')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099430309142231728/idu0660868530404c0414e0bf180797b525682a5) ] </small>
 
