@@ -57,7 +57,7 @@ Estimates of poverty are an important input into policy formulation in developin
 
 
 **Minimum wages and productivity shocks: Evidence from South Africa** (with Matthew Sharp).<br/>
-<small>[ <a href="#/" onclick="visib('agWages')">Abstract</a> | Draft available upon request ] </small>
+<small>[ <a href="#/" onclick="visib('agWages')">Abstract</a> | [Draft](/assets/papers/MerfeldSharp2023.pdf) ] </small>
 
 
 <div id="agWages" style="display: none; text-align: justify; line-height: 1.2">
