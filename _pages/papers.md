@@ -76,6 +76,8 @@ In developing countries, where wages can move seasonally following agricultural 
 # <center> Works in progress </center>
 - - -
 
+**Pollution, agricultural productivity, and development: Evidence from coal in plants in India**. Draft soon.
+
 **New approaches to estimating small area welfare in developing countries: Validation from four countries** with David Newhouse. Draft soon.
   
 **Does the timing of the school year affect child labor decisions in developing countries?** with Alex Eble.
