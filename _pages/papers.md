@@ -56,13 +56,13 @@ Estimates of poverty are an important input into policy formulation in developin
 
 
 
-**Minimum wages and productivity shocks: Evidence from South Africa** (with Matthew Sharp).<br/>
+**Minimum wages and economic shocks: Evidence from South Africa** (with Matthew Sharp).<br/>
 <small>[ <a href="#/" onclick="visib('agWages')">Abstract</a> | [Draft](/assets/papers/MerfeldSharp2023.pdf) ] </small>
 
 
 <div id="agWages" style="display: none; text-align: justify; line-height: 1.2">
 <small>
-In developing countries, where wages can move seasonally following agricultural productivity, the imposition of a wage floor -- in the form of a minimum wage -- can affect how the labour market responds to productivity shocks. Using data from South Africa, we show that an agricultural minimum wage leads to higher average wages without any impact on employment. However, the seemingly positive results with respect to the overall mean hide important heterogeneity in the effects of agricultural productivity shocks: the imposition of the minimum wage leads to relatively large decreases in overall employment and income in the sector in the wake of negative shocks, when there is usually downward pressure on wages. This heterogeneity essentially increases the variance of employment across years, suggesting caution in interpreting mean effects of minimum wage increases.
+The imposition of a minimum wage can affect how labour markets respond to economic shocks. Using data from South Africa, we show that an agricultural minimum wage leads to higher average wages without any impact on employment. However, the seemingly positive results with respect to the overall mean hide important heterogeneity: the imposition of the minimum wage leads to relatively large decreases in overall employment and income in the sector in the wake of negative agricultural productivity shocks, when there is usually downward pressure on wages. This heterogeneity essentially increases the variance of employment across years, suggesting caution in interpreting mean effects of minimum wage increases.
 </small><br><br/></div>
 
 
