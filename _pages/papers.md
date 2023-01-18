@@ -57,7 +57,6 @@ Estimates of poverty are an important input into policy formulation in developin
 
 
 **Minimum wages and economic shocks: Evidence from South Africa** (with Matthew Sharp).<br/>
-
 <small>[ <a href="#/" onclick="visib('agWages')">Abstract</a> | [Draft](/assets/papers/MerfeldSharp2023.pdf) ] </small>
 
 
@@ -70,7 +69,6 @@ The imposition of a minimum wage can affect how labour markets respond to econom
 
 
 **Pollution, agricultural productivity, and development: Evidence from coal in plants in India**.<br>
-
 <small>[ <a href="#/" onclick="visib('coal')">Abstract</a> | Draft available upon request ] </small>
 
 <div id="coal" style="display: none; text-align: justify; line-height: 1.2">
@@ -81,7 +79,6 @@ The rapid increase in population in India from the 1990s through the 2010s led t
 
 
 **New approaches to estimating small area welfare in developing countries: Validation from four countries** with David Newhouse.<br>
-
 <small>[ <a href="#/" onclick="visib('ml')">Abstract</a> | Draft available upon request ] </small>
 
 <div id="ml" style="display: none; text-align: justify; line-height: 1.2">
