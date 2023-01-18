@@ -68,6 +68,24 @@ The imposition of a minimum wage can affect how labour markets respond to econom
 
 
 
+**Pollution, agricultural productivity, and development: Evidence from coal in plants in India**.
+<small>[ <a href="#/" onclick="visib('coal')">Abstract</a> | Draft available upon request ] </small>
+
+<div id="coal" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+The rapid increase in population in India from the 1990s through the 2010s led to the rapid construction of new coal power plants throughout the country. Using this roll-out combined with random changes in wind direction, I document negative effects of pollution from coal power plants on agricultural productivity throughout the country. Results suggest this decrease may be driven by a decline in labor allocation of the oldest half of my sample, though I cannot rule out direct effects of pollution on land productivity. These impacts spill over into aggregate economic growth, as well; nightlight growth is slower following years of higher exposure to pollution.
+</small><br><br/></div>
+
+
+
+**New approaches to estimating small area welfare in developing countries: Validation from four countries** with David Newhouse. Draft available upon request.
+<small>[ <a href="#/" onclick="visib('ml')">Abstract</a> | Draft available upon request ] </small>
+
+<div id="ml" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+Reliable estimates of economic welfare for small areas are valuable inputs into the design and evaluation of development policies. This paper compares the accuracy of point estimates and confidence intervals for small area estimates of wealth and poverty derived from four different prediction methods: linear mixed models, Cubist regression, extreme gradient boosting, and boosted regression forests. The evaluation draws samples from unit-level household census data from four separate developing countries, combines them with publicly and globally available geospatial indicators to generate small area estimates, and evaluates these estimates against aggregates calculated using the full census. Predictions of wealth are evaluated in four countries and poverty in one. All three machine learning methods outperform the traditional linear mixed model, with extreme gradient boosting and boosted regression forests generally outperforming the other alternatives. The proposed residual bootstrap procedure reliably estimates confidence intervals for the machine learning estimators, with estimated coverage rates across simulations falling between 94 and 97 percent. These results demonstrate that predictions obtained using tree-based gradient boosting with a random effect block bootstrap generate more accurate point and uncertainty estimates than prevailing methods for generating small area welfare estimates.
+</small><br><br/></div>
+
 
 
 
@@ -76,10 +94,7 @@ The imposition of a minimum wage can affect how labour markets respond to econom
 # <center> Works in progress </center>
 - - -
 
-**Pollution, agricultural productivity, and development: Evidence from coal in plants in India**. Draft soon.
 
-**New approaches to estimating small area welfare in developing countries: Validation from four countries** with David Newhouse. Draft soon.
-  
 **Does the timing of the school year affect child labor decisions in developing countries?** with Alex Eble.
 
 **Gender and hiring in SMEs: Evidence from an RCT in Bangladesh** with Asad Islam and Emily Beam.
