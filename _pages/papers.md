@@ -56,6 +56,17 @@ Estimates of poverty are an important input into policy formulation in developin
 
 
 
+**Pollution, agricultural productivity, and development: Evidence from coal in plants in India**.<br>
+<small>[ <a href="#/" onclick="visib('coal')">Abstract</a> | [Draft](/assets/papers/pollution2023.pdf) ] </small>
+
+<div id="coal" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+I show that emissions from a common energy source lead to decreased productivity and growth. The rapid increase in population in India from the 1990s through the 2010s led to the rapid construction of new coal power plants throughout the country. Using this roll-out combined with random changes in wind direction, I document negative effects of pollution from coal power plants on agricultural productivity throughout the country. Results suggest this decrease may be driven by a decline in labor allocation of the oldest half of my sample, though I cannot rule out direct effects of pollution on land productivity. These impacts spill over into aggregate economic growth, as well; nightlight growth is slower following years of higher exposure to pollution.
+</small><br><br/></div>
+
+
+
+
 **Minimum wages and economic shocks: Evidence from South Africa** (with Matthew Sharp).<br/>
 <small>[ <a href="#/" onclick="visib('agWages')">Abstract</a> | [Draft](/assets/papers/MerfeldSharp2023.pdf) ] </small>
 
@@ -63,17 +74,6 @@ Estimates of poverty are an important input into policy formulation in developin
 <div id="agWages" style="display: none; text-align: justify; line-height: 1.2">
 <small>
 The imposition of a minimum wage can affect how labour markets respond to economic shocks. Using data from South Africa, we show that an agricultural minimum wage leads to higher average wages without any impact on employment. However, the seemingly positive results with respect to the overall mean hide important heterogeneity: the imposition of the minimum wage leads to relatively large decreases in overall employment and income in the sector in the wake of negative agricultural productivity shocks, when there is usually downward pressure on wages. This heterogeneity essentially increases the variance of employment across years, suggesting caution in interpreting mean effects of minimum wage increases.
-</small><br><br/></div>
-
-
-
-
-**Pollution, agricultural productivity, and development: Evidence from coal in plants in India**.<br>
-<small>[ <a href="#/" onclick="visib('coal')">Abstract</a> | Draft available upon request ] </small>
-
-<div id="coal" style="display: none; text-align: justify; line-height: 1.2">
-<small>
-The rapid increase in population in India from the 1990s through the 2010s led to the rapid construction of new coal power plants throughout the country. Using this roll-out combined with random changes in wind direction, I document negative effects of pollution from coal power plants on agricultural productivity throughout the country. Results suggest this decrease may be driven by a decline in labor allocation of the oldest half of my sample, though I cannot rule out direct effects of pollution on land productivity. These impacts spill over into aggregate economic growth, as well; nightlight growth is slower following years of higher exposure to pollution.
 </small><br><br/></div>
 
 
