@@ -94,6 +94,7 @@ Reliable estimates of economic welfare for small areas are valuable inputs into 
 # <center> Works in progress </center>
 - - -
 
+**What can prices tell us about poverty?** with Bo Pieter Johannes Andree and David Newhouse.
 
 **Does the timing of the school year affect child labor decisions in developing countries?** with Alex Eble.
 
