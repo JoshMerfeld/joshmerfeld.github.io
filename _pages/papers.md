@@ -56,7 +56,7 @@ Estimates of poverty are an important input into policy formulation in developin
 
 
 
-**Pollution, agricultural productivity, and development: Evidence from coal in plants in India**.<br>
+**Blowing in the wind: Pollution and agricultural productivity in India**.<br>
 <small>[ <a href="#/" onclick="visib('coal')">Abstract</a> | [Draft](/assets/papers/pollution2023.pdf) ] </small>
 
 <div id="coal" style="display: none; text-align: justify; line-height: 1.2">
