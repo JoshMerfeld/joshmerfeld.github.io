@@ -33,6 +33,16 @@ This paper presents evidence of misallocation across households in rural Indian 
 
 
 
+**New approaches to estimating small area welfare in developing countries: Validation from four countries** with David Newhouse. _Under review_.<br/>
+<small>[ <a href="#/" onclick="visib('ml')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099413503082334933) ] </small>
+
+<div id="ml" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+Reliable estimates of economic welfare for small areas are valuable inputs into the design and evaluation of development policies. This paper compares the accuracy of point estimates and confidence intervals for small area estimates of wealth and poverty derived from four different prediction methods: linear mixed models, Cubist regression, extreme gradient boosting, and boosted regression forests. The evaluation draws samples from unit-level household census data from four separate developing countries, combines them with publicly and globally available geospatial indicators to generate small area estimates, and evaluates these estimates against aggregates calculated using the full census. Predictions of wealth are evaluated in four countries and poverty in one. All three machine learning methods outperform the traditional linear mixed model, with extreme gradient boosting and boosted regression forests generally outperforming the other alternatives. The proposed residual bootstrap procedure reliably estimates confidence intervals for the machine learning estimators, with estimated coverage rates across simulations falling between 94 and 97 percent. These results demonstrate that predictions obtained using tree-based gradient boosting with a random effect block bootstrap generate more accurate point and uncertainty estimates than prevailing methods for generating small area welfare estimates.
+</small><br><br/></div>
+
+
+
 **Poverty at Higher Frequency** (with Jonathan Morduch). _Under review_.<br/>
 <small>[ <a href="#/" onclick="visib('povAbstract')">Abstract</a> | [Draft](/assets/papers/MerfeldMorduch(2022).pdf) ] </small>
 
@@ -74,16 +84,6 @@ I show that emissions from a common energy source lead to decreased productivity
 <div id="agWages" style="display: none; text-align: justify; line-height: 1.2">
 <small>
 The imposition of a minimum wage can affect how labour markets respond to economic shocks. Using data from South Africa, we show that an agricultural minimum wage leads to higher average wages without any impact on employment. However, the seemingly positive results with respect to the overall mean hide important heterogeneity: the imposition of the minimum wage leads to relatively large decreases in overall employment and income in the sector in the wake of negative agricultural productivity shocks, when there is usually downward pressure on wages. This heterogeneity essentially increases the variance of employment across years, suggesting caution in interpreting mean effects of minimum wage increases.
-</small><br><br/></div>
-
-
-
-**New approaches to estimating small area welfare in developing countries: Validation from four countries** with David Newhouse.<br>
-<small>[ <a href="#/" onclick="visib('ml')">Abstract</a> | Draft available upon request ] </small>
-
-<div id="ml" style="display: none; text-align: justify; line-height: 1.2">
-<small>
-Reliable estimates of economic welfare for small areas are valuable inputs into the design and evaluation of development policies. This paper compares the accuracy of point estimates and confidence intervals for small area estimates of wealth and poverty derived from four different prediction methods: linear mixed models, Cubist regression, extreme gradient boosting, and boosted regression forests. The evaluation draws samples from unit-level household census data from four separate developing countries, combines them with publicly and globally available geospatial indicators to generate small area estimates, and evaluates these estimates against aggregates calculated using the full census. Predictions of wealth are evaluated in four countries and poverty in one. All three machine learning methods outperform the traditional linear mixed model, with extreme gradient boosting and boosted regression forests generally outperforming the other alternatives. The proposed residual bootstrap procedure reliably estimates confidence intervals for the machine learning estimators, with estimated coverage rates across simulations falling between 94 and 97 percent. These results demonstrate that predictions obtained using tree-based gradient boosting with a random effect block bootstrap generate more accurate point and uncertainty estimates than prevailing methods for generating small area welfare estimates.
 </small><br><br/></div>
 
 
