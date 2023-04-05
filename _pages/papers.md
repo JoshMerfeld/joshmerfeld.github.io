@@ -77,7 +77,7 @@ I show that emissions from a common energy source lead to decreased productivity
 
 
 
-**Minimum wages and economic shocks: Evidence from South Africa** (with Matthew Sharp).<br/>
+**Minimum wages and unemployment during economic shocks** (with Matthew Sharp).<br/>
 <small>[ <a href="#/" onclick="visib('agWages')">Abstract</a> | [Draft](/assets/papers/MerfeldSharp2023.pdf) ] </small>
 
 
