@@ -66,12 +66,12 @@ Estimates of poverty are an important input into policy formulation in developin
 
 
 
-**Blowing in the wind: Pollution and agricultural productivity in India**.<br>
+**Air pollution and agricultural productivity in a developing country**.<br>
 <small>[ <a href="#/" onclick="visib('coal')">Abstract</a> | [Draft](/assets/papers/pollution2023.pdf) ] </small>
 
 <div id="coal" style="display: none; text-align: justify; line-height: 1.2">
 <small>
-I show that emissions from a common energy source lead to decreased productivity and growth. The rapid increase in population in India from the 1990s through the 2010s led to the rapid construction of new coal power plants throughout the country. Using this roll-out combined with random changes in wind direction, I document negative effects of pollution from coal power plants on agricultural productivity throughout the country. Results suggest this decrease may be driven by a decline in labor allocation of the oldest half of my sample, though I cannot rule out direct effects of pollution on land productivity. These impacts spill over into aggregate economic growth, as well; nightlight growth is slower following years of higher exposure to pollution.
+I document large negative externalities in the agricultural sector of India due to air pollution. Using random variation in pollution exposure induced by changes in wind direction, I show that higher levels of particulate matter lead to decreased agricultural productivity. Based on within-village average deviations in pollution exposure, year-to-year changes in productivity can be above 10 percent. Combining wind direction with the rollout of coal plants, I show that pollution from coal plants, specifically, has a larger effect on agricultural productivity than other types of pollution. Given that the agricultural sector is a refuge for the poor in many developing countries, these results suggest that the effects of pollution may hit the poorest particularly hard.
 </small><br><br/></div>
 
 
