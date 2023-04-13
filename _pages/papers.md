@@ -33,6 +33,17 @@ This paper presents evidence of misallocation across households in rural Indian 
 
 
 
+
+**Air pollution and agricultural productivity in a developing country**. _Under review_.<br/>
+<small>[ <a href="#/" onclick="visib('coal')">Abstract</a> | [Draft](/assets/papers/pollution2023.pdf) | [Most recent slides](/pollution-slides/#1) ] </small>
+
+<div id="coal" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+I document large negative externalities in the agricultural sector of India due to air pollution. Using random variation in pollution exposure induced by changes in wind direction, I show that higher levels of particulate matter lead to decreased agricultural productivity. Based on within-village average deviations in pollution exposure, year-to-year changes in productivity can be above 10 percent. Combining wind direction with the rollout of coal plants, I show that pollution from coal plants, specifically, has a larger effect on agricultural productivity than other types of pollution. Given that the agricultural sector is a refuge for the poor in many developing countries, these results suggest that the effects of pollution may hit the poorest particularly hard.
+</small><br><br/></div>
+
+
+
 **New approaches to estimating small area welfare in developing countries: Validation from four countries** with David Newhouse. _Under review_.<br/>
 <small>[ <a href="#/" onclick="visib('ml')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099413503082334933) ] </small>
 
@@ -61,17 +72,6 @@ One of the sharpest and most common simplifications when measuring poverty has b
 <div id="satellite" style="display: none; text-align: justify; line-height: 1.2">
 <small>
 Estimates of poverty are an important input into policy formulation in developing countries. The accurate measurement of poverty rates is therefore a first-order problem for development policy. This paper shows that combining satellite imagery with household surveys can improve the precision and accuracy of estimated poverty rates in Mexican municipalities, a level at which the survey is not considered representative. It also shows that a household-level model outperforms other common small area estimation methods. However, poverty estimates in 2015 derived from geospatial data remain less accurate than 2010 estimates derived from household census data. These results indicate that the incorporation of household survey data and widely available satellite imagery can improve on existing poverty estimates in developing countries when census data are old or when patterns of poverty are changing rapidly, even for small subgroups.
-</small><br><br/></div>
-
-
-
-
-**Air pollution and agricultural productivity in a developing country**.<br>
-<small>[ <a href="#/" onclick="visib('coal')">Abstract</a> | [Draft](/assets/papers/pollution2023.pdf) | [Most recent slides](/pollution-slides/#1) ] </small>
-
-<div id="coal" style="display: none; text-align: justify; line-height: 1.2">
-<small>
-I document large negative externalities in the agricultural sector of India due to air pollution. Using random variation in pollution exposure induced by changes in wind direction, I show that higher levels of particulate matter lead to decreased agricultural productivity. Based on within-village average deviations in pollution exposure, year-to-year changes in productivity can be above 10 percent. Combining wind direction with the rollout of coal plants, I show that pollution from coal plants, specifically, has a larger effect on agricultural productivity than other types of pollution. Given that the agricultural sector is a refuge for the poor in many developing countries, these results suggest that the effects of pollution may hit the poorest particularly hard.
 </small><br><br/></div>
 
 
