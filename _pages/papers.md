@@ -67,7 +67,7 @@ Estimates of poverty are an important input into policy formulation in developin
 
 
 **Air pollution and agricultural productivity in a developing country**.<br>
-<small>[ <a href="#/" onclick="visib('coal')">Abstract</a> | [Draft](/assets/papers/pollution2023.pdf) ] </small>
+<small>[ <a href="#/" onclick="visib('coal')">Abstract</a> | [Draft](/assets/papers/pollution2023.pdf) | [Most recent slides](/pollution-slides/#1) ] </small>
 
 <div id="coal" style="display: none; text-align: justify; line-height: 1.2">
 <small>
