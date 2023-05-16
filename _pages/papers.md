@@ -33,6 +33,17 @@ This paper presents evidence of misallocation across households in rural Indian 
 
 
 
+**Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with David Newhouse, Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri). Revision requested, _Oxford Bulletin of Economics and Statistics_.<br/>
+<small>[ <a href="#/" onclick="visib('satellite')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099430309142231728/idu0660868530404c0414e0bf180797b525682a5) ] </small>
+
+
+<div id="satellite" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+Estimates of poverty are an important input into policy formulation in developing countries. The accurate measurement of poverty rates is therefore a first-order problem for development policy. This paper shows that combining satellite imagery with household surveys can improve the precision and accuracy of estimated poverty rates in Mexican municipalities, a level at which the survey is not considered representative. It also shows that a household-level model outperforms other common small area estimation methods. However, poverty estimates in 2015 derived from geospatial data remain less accurate than 2010 estimates derived from household census data. These results indicate that the incorporation of household survey data and widely available satellite imagery can improve on existing poverty estimates in developing countries when census data are old or when patterns of poverty are changing rapidly, even for small subgroups.
+</small><br><br/></div>
+
+
+
 
 **Air pollution and agricultural productivity in a developing country**. _Under review_.<br/>
 <small>[ <a href="#/" onclick="visib('coal')">Abstract</a> | [Draft](/assets/papers/pollution2023.pdf) | [Most recent slides](/pollution-slides/#1) ] </small>
@@ -62,17 +73,6 @@ Reliable estimates of economic welfare for small areas are valuable inputs into 
 <div id="agWages" style="display: none; text-align: justify; line-height: 1.2">
 <small>
 The imposition of a minimum wage can affect how labour markets respond to economic shocks. Using data from South Africa, we show that an agricultural minimum wage leads to higher average wages without any impact on employment. However, the seemingly positive results with respect to the overall mean hide important heterogeneity: the imposition of the minimum wage leads to relatively large decreases in overall employment and income in the sector in the wake of negative agricultural productivity shocks, when there is usually downward pressure on wages. This heterogeneity essentially increases the variance of employment across years, suggesting caution in interpreting mean effects of minimum wage increases.
-</small><br><br/></div>
-
-
-
-**Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with David Newhouse, Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri). _Under review_.<br/>
-<small>[ <a href="#/" onclick="visib('satellite')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099430309142231728/idu0660868530404c0414e0bf180797b525682a5) ] </small>
-
-
-<div id="satellite" style="display: none; text-align: justify; line-height: 1.2">
-<small>
-Estimates of poverty are an important input into policy formulation in developing countries. The accurate measurement of poverty rates is therefore a first-order problem for development policy. This paper shows that combining satellite imagery with household surveys can improve the precision and accuracy of estimated poverty rates in Mexican municipalities, a level at which the survey is not considered representative. It also shows that a household-level model outperforms other common small area estimation methods. However, poverty estimates in 2015 derived from geospatial data remain less accurate than 2010 estimates derived from household census data. These results indicate that the incorporation of household survey data and widely available satellite imagery can improve on existing poverty estimates in developing countries when census data are old or when patterns of poverty are changing rapidly, even for small subgroups.
 </small><br><br/></div>
 
 
