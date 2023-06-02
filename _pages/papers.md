@@ -55,7 +55,7 @@ I document large negative externalities in the agricultural sector of India due 
 
 
 
-**New approaches to estimating small area welfare in developing countries: Validation from four countries** with David Newhouse. _Under review_.<br/>
+**Improving Estimates of Mean Welfare and Uncertainty in Developing Countries** with David Newhouse. _Under review_.<br/>
 <small>[ <a href="#/" onclick="visib('ml')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099413503082334933) ] </small>
 
 <div id="ml" style="display: none; text-align: justify; line-height: 1.2">
