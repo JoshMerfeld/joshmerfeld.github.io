@@ -11,17 +11,6 @@ permalink: /papers/
 - - -
 
 
-
-**Labor Elasticities, Market Failures, and Misallocation: Evidence from Indian Agriculture**. IZA Discussion Paper No. 13682, previously entitled "Smallholders, Market Failures, and Agricultural Production: Evidence from India". Accepted, _Agricultural Economics_.<br/>
-<small>[ <a href="#/" onclick="visib('labor')">Abstract</a> | [Draft](/assets/papers/merfeld_markets.pdf) ] </small>
-
-
-<div id="labor" style="display: none; text-align: justify; line-height: 1.2">
-<small>
-This paper presents evidence of misallocation across households in rural Indian agriculture. I show that household demographics predict own farm labor demand for smallholder farmers but not non-smallholder farmers. A simple model of labor allocation predicts a clear consequence of this duality: smallholder farmers will reallocate labor across plots less in response to price changes than non-smallholders. Detailed household panel data confirms this theoretical prediction. Three additional facts suggest that a lack of off-farm labor opportunities may be partly responsible for the behavior of smallholders, leading smallholders to overallocate labor to agricultural production. First, smallholders report fewer hours of involuntary unemployment when own crop prices increase. Second, yield is substantially higher for smallholders on plots of the same size. Finally, estimated marginal revenue products of labor are consistently lower for smallholders.
-</small><br><br/></div>
-
-
 **Combining Survey and Geospatial Data Can Significantly Improve Gender-Disaggregated Estimates of Labor Market Outcomes** (with David Newhouse, Michael Weber, and Partha Lahiri). World Bank Policy Research Working Paper 10077. Revision requested, _Journal of the Royal Statistical Society: Series A_.<br/>
 <small>[ <a href="#/" onclick="visib('genderLabor')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099321406092229138/idu016f95e0806fc6044ea0b843007d5dc0ef17e) ] </small>
 
@@ -50,7 +39,7 @@ Estimates of poverty are an important input into policy formulation in developin
 
 <div id="coal" style="display: none; text-align: justify; line-height: 1.2">
 <small>
-I document large negative externalities in the agricultural sector of India due to air pollution. Using random variation in pollution exposure induced by changes in wind direction, I show that higher levels of particulate matter lead to decreased agricultural productivity. Based on within-village average deviations in pollution exposure, year-to-year changes in productivity can be above 10 percent. Combining wind direction with the rollout of coal plants, I show that pollution from coal plants, specifically, has a larger effect on agricultural productivity than other types of pollution. Given that the agricultural sector is a refuge for the poor in many developing countries, these results suggest that the effects of pollution may hit the poorest particularly hard.
+I document negative externalities of air pollution in the Indian agricultural sector. Using variation in pollution induced by changes in wind across years, I show that higher levels of pollution lead to decreased agricultural productivity, with large changes in productivity being common. The negative effects of pollution are larger in areas growing more labor-intensive crops, indicating that the pollution works at least partly through direct effects on labor productivity. Finally, combining wind direction with the rollout of coal plants, results indicate that pollution from coal plants has a larger effect on agricultural productivity than other types of pollution. Given that the agricultural sector is a refuge for the poor in many developing countries, these results suggest that the negative externalities of pollution may hit the poorest particularly hard.
 </small><br><br/></div>
 
 
