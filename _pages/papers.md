@@ -11,6 +11,16 @@ permalink: /papers/
 - - -
 
 
+
+**Improving Estimates of Mean Welfare and Uncertainty in Developing Countries** with David Newhouse. Revision requested, _Review of Economics and Statistics_.<br/>
+<small>[ <a href="#/" onclick="visib('ml')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099413503082334933) ] </small>
+
+<div id="ml" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+Reliable estimates of economic welfare for small areas are valuable inputs into the design and evaluation of development policies. This paper compares the accuracy of point estimates and confidence intervals for small area estimates of wealth and poverty derived from four different prediction methods: linear mixed models, Cubist regression, extreme gradient boosting, and boosted regression forests. The evaluation draws samples from unit-level household census data from four separate developing countries, combines them with publicly and globally available geospatial indicators to generate small area estimates, and evaluates these estimates against aggregates calculated using the full census. Predictions of wealth are evaluated in four countries and poverty in one. All three machine learning methods outperform the traditional linear mixed model, with extreme gradient boosting and boosted regression forests generally outperforming the other alternatives. The proposed residual bootstrap procedure reliably estimates confidence intervals for the machine learning estimators, with estimated coverage rates across simulations falling between 94 and 97 percent. These results demonstrate that predictions obtained using tree-based gradient boosting with a random effect block bootstrap generate more accurate point and uncertainty estimates than prevailing methods for generating small area welfare estimates.
+</small><br><br/></div>
+
+
 **Combining Survey and Geospatial Data Can Significantly Improve Gender-Disaggregated Estimates of Labor Market Outcomes** (with David Newhouse, Michael Weber, and Partha Lahiri). World Bank Policy Research Working Paper 10077. Revision requested, _Journal of the Royal Statistical Society: Series A_.<br/>
 <small>[ <a href="#/" onclick="visib('genderLabor')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099321406092229138/idu016f95e0806fc6044ea0b843007d5dc0ef17e) ] </small>
 
@@ -40,16 +50,6 @@ Estimates of poverty are an important input into policy formulation in developin
 <div id="coal" style="display: none; text-align: justify; line-height: 1.2">
 <small>
 I document negative externalities of air pollution in the Indian agricultural sector. Using variation in pollution induced by changes in wind across years, I show that higher levels of pollution lead to decreased agricultural productivity, with large changes in productivity being common. The negative effects of pollution are larger in areas growing more labor-intensive crops, indicating that the pollution works at least partly through direct effects on labor productivity. Finally, combining wind direction with the rollout of coal plants, results indicate that pollution from coal plants has a larger effect on agricultural productivity than other types of pollution. Given that the agricultural sector is a refuge for the poor in many developing countries, these results suggest that the negative externalities of pollution may hit the poorest particularly hard.
-</small><br><br/></div>
-
-
-
-**Improving Estimates of Mean Welfare and Uncertainty in Developing Countries** with David Newhouse. _Under review_.<br/>
-<small>[ <a href="#/" onclick="visib('ml')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099413503082334933) ] </small>
-
-<div id="ml" style="display: none; text-align: justify; line-height: 1.2">
-<small>
-Reliable estimates of economic welfare for small areas are valuable inputs into the design and evaluation of development policies. This paper compares the accuracy of point estimates and confidence intervals for small area estimates of wealth and poverty derived from four different prediction methods: linear mixed models, Cubist regression, extreme gradient boosting, and boosted regression forests. The evaluation draws samples from unit-level household census data from four separate developing countries, combines them with publicly and globally available geospatial indicators to generate small area estimates, and evaluates these estimates against aggregates calculated using the full census. Predictions of wealth are evaluated in four countries and poverty in one. All three machine learning methods outperform the traditional linear mixed model, with extreme gradient boosting and boosted regression forests generally outperforming the other alternatives. The proposed residual bootstrap procedure reliably estimates confidence intervals for the machine learning estimators, with estimated coverage rates across simulations falling between 94 and 97 percent. These results demonstrate that predictions obtained using tree-based gradient boosting with a random effect block bootstrap generate more accurate point and uncertainty estimates than prevailing methods for generating small area welfare estimates.
 </small><br><br/></div>
 
 
