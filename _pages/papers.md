@@ -83,13 +83,11 @@ The imposition of a minimum wage can affect how labour markets respond to econom
 # <center> Works in progress </center>
 - - -
 
-**What can prices tell us about poverty?** with Bo Pieter Johannes Andree and David Newhouse.
-
-**Does the timing of the school year affect child labor decisions in developing countries?** with Alex Eble.
-
-**Gender and hiring in SMEs: Evidence from an RCT in Bangladesh** with Asad Islam and Emily Beam.
+**Gender and hiring in SMEs: Evidence from an RCT in Bangladesh** with Asad Islam and Emily Beam (funding: £225,000).
 
 **Structural Transformation in a Changing Climate** with Rajeev Dehejia.
+
+**Does the timing of the school year affect child labor decisions in developing countries?**
 
 
 
