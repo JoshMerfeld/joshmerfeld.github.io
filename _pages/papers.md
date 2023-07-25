@@ -12,7 +12,7 @@ permalink: /papers/
 
 
 
-**Improving Estimates of Mean Welfare and Uncertainty in Developing Countries** with David Newhouse. Revision requested, _Review of Economics and Statistics_.<br/>
+**Improving Estimates of Mean Welfare and Uncertainty in Developing Countries** with David Newhouse. [World Bank Policy Research Working Paper 10348.](https://elibrary.worldbank.org/doi/abs/10.1596/1813-9450-10348)  Revision requested, _Review of Economics and Statistics_.<br/>
 <small>[ <a href="#/" onclick="visib('ml')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099413503082334933) ] </small>
 
 <div id="ml" style="display: none; text-align: justify; line-height: 1.2">
@@ -21,7 +21,7 @@ Reliable estimates of economic welfare for small areas are valuable inputs into 
 </small><br><br/></div>
 
 
-**Combining Survey and Geospatial Data Can Significantly Improve Gender-Disaggregated Estimates of Labor Market Outcomes** (with David Newhouse, Michael Weber, and Partha Lahiri). World Bank Policy Research Working Paper 10077. Revision requested, _Journal of the Royal Statistical Society: Series A_.<br/>
+**Combining Survey and Geospatial Data Can Significantly Improve Gender-Disaggregated Estimates of Labor Market Outcomes** (with David Newhouse, Michael Weber, and Partha Lahiri). [World Bank Policy Research Working Paper 10077.](https://elibrary.worldbank.org/doi/abs/10.1596/1813-9450-10077) Revision requested, _Journal of the Royal Statistical Society: Series A_.<br/>
 <small>[ <a href="#/" onclick="visib('genderLabor')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099321406092229138/idu016f95e0806fc6044ea0b843007d5dc0ef17e) ] </small>
 
 
