@@ -87,6 +87,10 @@ One of the sharpest and most common simplifications when measuring poverty has b
 
 **Structural Transformation in a Changing Climate** with Rajeev Dehejia.
 
+**Foreign Direct Investment and Micro-Level Structural Transformation in Sub-Saharan Africa** with Sunghun Lim.
+
+**Improving Estimates of Human Capital** with Lanu Kim, David Newhouse, and Michael Weber.
+
 **Does the timing of the school year affect child labor decisions in developing countries?**
 
 
