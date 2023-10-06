@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.20)  21 SEP 2023 10:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.20)  6 OCT 2023 10:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -291,10 +291,6 @@ LaTeX Info: Redefining \nameref on input line 66.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 120.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 120.
 
 /Users/Josh/Dropbox/website/joshmerfeld.github.io/assets/cv/merfeld_cv.tex:135: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
@@ -312,6 +308,10 @@ Underfull \hbox (badness 10000) detected at line 135
 [][]
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 135.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 135.
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
@@ -464,16 +464,16 @@ Package rerunfilecheck Info: Checksums for `merfeld_cv.out':
 Here is how much of TeX's memory you used:
  8526 strings out of 478268
  134904 string characters out of 5846347
- 440401 words of memory out of 5000000
+ 439401 words of memory out of 5000000
  26652 multiletter control sequences out of 15000+600000
  471812 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,5n,63p,603b,383s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on merfeld_cv.pdf (4 pages, 113643 bytes).
+Output written on merfeld_cv.pdf (4 pages, 113284 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
  18 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

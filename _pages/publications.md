@@ -16,7 +16,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 
-**Labor Elasticities, Market Failures, and Misallocation: Evidence from Indian Agriculture**. Accepted, _Agricultural Economics_.
+**Labor Elasticities, Market Failures, and Misallocation: Evidence from Indian Agriculture**. (2023). _Agricultural Economics_. [54(5), 623-637](https://onlinelibrary.wiley.com/doi/full/10.1111/agec.12800).
 
 **Sectoral Wage Gaps and Gender in Rural India** (2022). _American Journal of Agricultural Economics_, [105(2), 434-452](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12339).
 
