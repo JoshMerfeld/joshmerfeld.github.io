@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.20)  6 OCT 2023 10:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.20)  8 NOV 2023 12:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -291,167 +291,13 @@ LaTeX Info: Redefining \nameref on input line 66.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-/Users/Josh/Dropbox/website/joshmerfeld.github.io/assets/cv/merfeld_cv.tex:135: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.135 	\item `
-              `Improving Estimates of Mean Welfare and Uncertainty in Develo...
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 135
-[][]
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 135.
+(Font)              <7> on input line 136.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 135.
+(Font)              <5> on input line 136.
 [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-/Users/Josh/Dropbox/website/joshmerfeld.github.io/assets/cv/merfeld_cv.tex:136: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.136 	\item `
-              `Combining Survey and Geospatial Data Can Significantly Improv...
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 136
-[][]
- []
-
-
-/Users/Josh/Dropbox/website/joshmerfeld.github.io/assets/cv/merfeld_cv.tex:137: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.137 	\item `
-              `Small Area Estimation of Monetary Poverty in Mexico using Sat...
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 137
-[][]
- []
-
-
-/Users/Josh/Dropbox/website/joshmerfeld.github.io/assets/cv/merfeld_cv.tex:138: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.138 	\item `
-              `Air pollution and agricultural productivity in a developing c...
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 138
-[][]
- []
-
-
-/Users/Josh/Dropbox/website/joshmerfeld.github.io/assets/cv/merfeld_cv.tex:139: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 	\item `
-              `Minimum wages and economic shocks: Evidence from South Africa...
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 139
-[][]
- []
-
-
-/Users/Josh/Dropbox/website/joshmerfeld.github.io/assets/cv/merfeld_cv.tex:140: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.140 	\item `
-              `Poverty at Higher Frequency" with Jonathan Morduch. Draft ava...
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 140
-[][]
- []
-
-
-/Users/Josh/Dropbox/website/joshmerfeld.github.io/assets/cv/merfeld_cv.tex:141: LaTeX Error: \begin{document} ended by \end{list}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.141 \end{itemize}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-/Users/Josh/Dropbox/website/joshmerfeld.github.io/assets/cv/merfeld_cv.tex:141: Missing } inserted.
-<inserted text> 
-                }
-l.141 \end{itemize}
-                   
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/Users/Josh/Dropbox/website/joshmerfeld.github.io/assets/cv/merfeld_cv.tex:141: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.141 \end{itemize}
-                   
-Things are pretty mixed up, but I think the worst is over.
-
-
-/Users/Josh/Dropbox/website/joshmerfeld.github.io/assets/cv/merfeld_cv.tex:141: LaTeX Error: \begin{document} ended by \end{itemize}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.141 \end{itemize}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-/Users/Josh/Dropbox/website/joshmerfeld.github.io/assets/cv/merfeld_cv.tex:141: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.141 \end{itemize}
-                   
-Things are pretty mixed up, but I think the worst is over.
-
-[2] [3] [4] (./merfeld_cv.aux)
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] (./merfeld_cv.aux)
 
 Package rerunfilecheck Warning: File `merfeld_cv.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
@@ -460,17 +306,21 @@ Package rerunfilecheck Warning: File `merfeld_cv.out' has changed.
 Package rerunfilecheck Info: Checksums for `merfeld_cv.out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
- ) 
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 83 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 8526 strings out of 478268
- 134904 string characters out of 5846347
+ 8525 strings out of 478268
+ 134899 string characters out of 5846347
  439401 words of memory out of 5000000
- 26652 multiletter control sequences out of 15000+600000
+ 26651 multiletter control sequences out of 15000+600000
  471812 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,5n,63p,603b,383s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,5n,63p,603b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on merfeld_cv.pdf (4 pages, 113284 bytes).
+Output written on merfeld_cv.pdf (4 pages, 113814 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  71 compressed objects within 1 object stream
