@@ -11,6 +11,8 @@ author_profile: true
 # <center> Teaching </center>
 - - -
 
+Applied Microeconometrics (PhD, KDI School) - [Course Website on GitHub](https://github.com/JoshMerfeld/applied-microeconometrics)
+
 Development Economics (PhD, KDI School)
 
 Research Methods (PhD, NYU)
