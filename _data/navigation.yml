@@ -10,11 +10,11 @@ main:
   - title: "Works in progress"
     url: /papers/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Teaching and resources"
+    url: /teachingandresources/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
   
   - title: "Contact"
     url: /contact/

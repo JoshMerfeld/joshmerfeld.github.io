@@ -2,7 +2,7 @@
 title: 
 layout: archive
 classes: wide
-permalink: /teaching/
+permalink: /teachingandresources/
 author_profile: true
 ---
 <br/> 
