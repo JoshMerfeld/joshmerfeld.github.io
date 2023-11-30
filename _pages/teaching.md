@@ -2,34 +2,32 @@
 title: 
 layout: archive
 classes: wide
-permalink: /teaching/
+permalink: /teachingandresources/
 author_profile: true
 ---
 <br/> 
 
 
-# <center> Teaching </center>
+# <center> Teaching and resources </center>
 - - -
 
-Applied Microeconometrics (PhD, KDI School) - [Course Website on GitHub](https://github.com/JoshMerfeld/applied-microeconometrics)
+## Applied microeconometrics in R
 
-Development Economics (PhD, KDI School)
+I teach an advanced masters/Ph.D. class on applied microeconometrics in R. The resources are available on my Github page, [here](https://github.com/JoshMerfeld/applied-microeconometrics).
 
-Research Methods (PhD, NYU)
+- The raw markdown files for the slides contain plenty of useful comments and examples.
+- Please feel free to make use of any of the code. Or, if you have questions, feel free to e-mail me!
 
-Microeconomics (Masters, KDI School)
 
-Agriculture and Development (Masters, KDI School)
+## Geospatial data and small area estimation
 
-Statistical Methods (Masters, NYU)
+Stay tuned for a primer aimed at discussing the ins and outs of integrating geospatial data and survey data for small area estimation in R, with a particular emphasis on improving estimates of SDGs.
 
-Using Large Datasets in Policy Research (Masters, NYU)
+- This work is with UN Stats and is aimed at practitioners and national statistics offices, but it will also contain a short guide on using geospatial data. 
+- In the meantime, please check out UN Stats' SAE4SDG page, [here](https://unstats.un.org/wiki/display/SAE4SDG/).
 
-Designing Data Collection for Program Evaluation (Masters, NYU)
 
-Capstone: Advanced Research Projects in Quantitative Analysis (Masters, NYU)
 
-Quantitative Analysis for Public Policy (Undergrad, NYU)
 
-Mathematics for Economics (Undergrad, SKKU)
+
 
