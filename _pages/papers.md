@@ -77,24 +77,31 @@ One of the sharpest and most common simplifications when measuring poverty has b
 
 
 
+**Does the timing of the school year affect child labor decisions in developing countries?**
+<small>[ <a href="#/" onclick="visib('schagAbstract')">Abstract</a> | [Preliminary draft](/assets/papers/schoolag2023.pdf) ] </small>
+
+
+<div id="schagAbstract" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+In developing countries, agricultural productivity shocks are an important predictor of the opportunity cost of time for children. This can lead to children dropping out of school to work during good rainfall years. However, this trade-off between current and future income is most salient only when the agricultural season and the school year overlap. In this paper, I show that this overlap is an important mediator of the effect of agricultural productivity shocks on both child labor and school enrollment. A long overlap between the harvest season and the school year leads to a lower elasticity of child labor with respect to agricultural productivity shocks relative to harvest season that does not overlap with the school year. The entirety of the effect is driven by self-employment, which is consistent with a story of children working on household farms.
+</small><br><br/></div>
+
 
 
 
 # <center> Works in progress </center>
 - - -
 
+**Power plants and structural transformation** with Sunghun Lim.<br/>
+ <small>[ [Draft slides](/st-slides/#1) ] </small>
+
 **Gender and hiring in SMEs: Evidence from an RCT in Bangladesh** with Asad Islam and Emily Beam (funding: £225,000).
 
 **Structural Transformation in a Changing Climate** with Rajeev Dehejia.
 
-**Coal-fired power plants and structural transformation** with Sunghun Lim.
- <small>[ [Draft slides](/st-slides/#1) ] </small>
-
 **Foreign Direct Investment and Micro-Level Structural Transformation in Sub-Saharan Africa** with Sunghun Lim.
 
 **Improving Estimates of Human Capital** with Lanu Kim, David Newhouse, and Michael Weber.
-
-**Does the timing of the school year affect child labor decisions in developing countries?**
 
 
 
