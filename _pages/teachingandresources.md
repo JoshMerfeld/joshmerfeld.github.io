@@ -19,6 +19,16 @@ I teach an advanced masters/Ph.D. class on applied microeconometrics in R. The r
 - Please feel free to make use of any of the code. Or, if you have questions, feel free to e-mail me!
 
 
+## Working with others
+
+I put together some slides for our Ph.D. students focused on setting up projects when working with others. These slides focus on two things:
+
+1. Using Dropbox to keep all files up to date
+2. Using relative paths so that files run on everyone's computer
+
+You can view the slides [here](https://joshmerfeld.github.io/sharedworkspaces/#1)
+
+
 ## Geospatial data and small area estimation
 
 Stay tuned for a primer aimed at discussing the ins and outs of integrating geospatial data and survey data for small area estimation in R, with a particular emphasis on improving estimates of SDGs.
