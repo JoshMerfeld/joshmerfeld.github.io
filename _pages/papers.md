@@ -77,7 +77,7 @@ One of the sharpest and most common simplifications when measuring poverty has b
 
 
 
-**Does the timing of the school year affect child labor decisions in developing countries?**
+**Does the timing of the school year affect child labor decisions in developing countries?**<br/>
 <small>[ <a href="#/" onclick="visib('schagAbstract')">Abstract</a> | [Preliminary draft](/assets/papers/schoolag2023.pdf) ] </small>
 
 
