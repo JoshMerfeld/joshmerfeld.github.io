@@ -13,7 +13,7 @@ author_profile: true
 
 ## Applied microeconometrics in R
 
-I teach an advanced masters/Ph.D. class on applied microeconometrics in R. The resources are available on my Github page, [here](https://github.com/JoshMerfeld/applied-microeconometrics).
+I teach an advanced masters/Ph.D. class on applied microeconometrics in R. The resources are available on my Github page, [**here**](https://github.com/JoshMerfeld/applied-microeconometrics).
 
 - The raw markdown files for the slides contain plenty of useful comments and examples.
 - Please feel free to make use of any of the code. Or, if you have questions, feel free to e-mail me!
@@ -26,7 +26,7 @@ I put together some slides for our Ph.D. students focused on setting up projects
 1. Using Dropbox to keep all files up to date
 2. Using relative paths so that files run on everyone's computer
 
-You can view the slides [here](https://joshmerfeld.github.io/sharedworkspaces/#1)
+You can view the slides [**here**](https://joshmerfeld.github.io/sharedworkspaces/#1)
 
 
 ## Geospatial data and small area estimation
