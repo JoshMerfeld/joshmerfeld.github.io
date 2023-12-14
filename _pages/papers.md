@@ -88,6 +88,7 @@ One of the sharpest and most common simplifications when measuring poverty has b
 **Structural Transformation in a Changing Climate** with Rajeev Dehejia.
 
 **Coal-fired power plants and structural transformation** with Sunghun Lim.
+ <small>[ [Draft slides](/st-slides/#1) ] </small>
 
 **Foreign Direct Investment and Micro-Level Structural Transformation in Sub-Saharan Africa** with Sunghun Lim.
 
