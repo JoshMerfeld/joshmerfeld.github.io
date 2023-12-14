@@ -26,7 +26,7 @@ I put together some slides for our Ph.D. students focused on setting up projects
 1. Using Dropbox to keep all files up to date
 2. Using relative paths so that files run on everyone's computer
 
-You can view the slides [**here**](https://joshmerfeld.github.io/sharedworkspaces/#1)
+You can view the slides [**here**](https://joshmerfeld.github.io/sharedworkspaces/#1).
 
 
 ## Geospatial data and small area estimation
