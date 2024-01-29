@@ -92,7 +92,7 @@ In developing countries, agricultural productivity shocks are an important predi
 # <center> Works in progress </center>
 - - -
 
-**Power plants and structural transformation** with Sunghun Lim.<br/>
+**A double-edged sword? Electricity, pollution, and structural transformation** with Sunghun Lim.<br/>
  <small>[ [Draft slides](/st-slides/#1) ] </small>
 
 **Gender and hiring in SMEs: Evidence from an RCT in Bangladesh** with Asad Islam and Emily Beam (funding: £225,000).
