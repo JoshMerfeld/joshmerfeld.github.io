@@ -99,9 +99,9 @@ In developing countries, agricultural productivity shocks are an important predi
 
 **Structural Transformation in a Changing Climate** with Rajeev Dehejia.
 
-**Foreign Direct Investment and Micro-Level Structural Transformation in Sub-Saharan Africa** with Sunghun Lim.
+**Improving Estimates of Human Capital** with Lanu Kim, Peter Lanjouw, David Newhouse, and Michael Weber.
 
-**Improving Estimates of Human Capital** with Lanu Kim, David Newhouse, and Michael Weber.
+**Foreign Direct Investment and Micro-Level Structural Transformation in Sub-Saharan Africa** with Sunghun Lim.
 
 
 
