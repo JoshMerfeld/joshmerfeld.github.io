@@ -54,25 +54,25 @@ I document negative externalities of air pollution in the Indian agricultural se
 
 
 
+**Poverty at Higher Frequency** (with Jonathan Morduch). _Under review._<br/>
+<small>[ <a href="#/" onclick="visib('povAbstract')">Abstract</a> | [Draft](/assets/papers/merfeldmorduch2024.pdf) ] </small>
 
-**Minimum wages and unemployment during economic shocks** (with Matthew Sharp). _Under review._<br/>
+
+<div id="povAbstract" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+The poverty rate is an important focus of economic policy. We show, however, that in low- and middle-income countries, the poverty rate is often not what it seems. Poverty, as conventionally measured, is thought to be the proportion of households that are poor for the year, but we show that, under common data collection practices, the measure instead captures the average share of the year that households are poor. The resulting poverty rates are sensitive to the timing of household consumption, not just its total value. For policy, this means that, contrary to common assumptions, the \textit{de facto} concept of national poverty in many countries is sensitive to households’ exposure to shocks and their ability to smooth consumption within the year. While created inadvertently, this \textit{de facto} concept of poverty has appealing properties as a measure of well-being, and it raises new philosophical questions about the nature of deprivation. This transformation has happened without a change in the form of the poverty measures and without longitudinal data. Instead, the transformation follows from three common practices used when collecting household data: asking survey questions with short-term recall (often covering only the past week’s or month’s spending), stratifying on sub-periods (usually quarters), and surveying households only once during the year. We illustrate the implications with monthly panel data from rural India, showing that time-sensitivity in poverty measurement has quantitatively large impacts on measured poverty, improves predictions of health outcomes, and expands the scope of strategies to reduce global poverty.
+</small><br><br/></div>
+
+
+
+
+**Minimum wages and unemployment during economic shocks** (with Matthew Sharp).<br/>
 <small>[ <a href="#/" onclick="visib('agWages')">Abstract</a> | [Draft](/assets/papers/MerfeldSharp2023.pdf) ] </small>
 
 
 <div id="agWages" style="display: none; text-align: justify; line-height: 1.2">
 <small>
 This paper studies whether a minimum wage changes how labour markets respond to economic shocks. Using data from South Africa, we show that an agricultural minimum wage leads to higher mean wages with no significant impacts on mean employment. However, these positive aggregate outcomes hide important heterogeneity: the imposition of the minimum wage leads to substantial declines in employment -- especially overall hours -- in the sector in the wake of negative weather-related economic shocks, which typically exert downward pressure on wages. The increased variance of employment across years in the post-law period suggests caution in interpreting the overall welfare impacts of minimum wage laws.
-</small><br><br/></div>
-
-
-
-**Poverty at Higher Frequency** (with Jonathan Morduch).<br/>
-<small>[ <a href="#/" onclick="visib('povAbstract')">Abstract</a> | [Draft](/assets/papers/MerfeldMorduch(2022).pdf) ] </small>
-
-
-<div id="povAbstract" style="display: none; text-align: justify; line-height: 1.2">
-<small>
-One of the sharpest and most common simplifications when measuring poverty has been to define poverty as a deficiency in yearly income or yearly consumption. The measures approximate the experience of poverty for those households whose income is steady or who can smooth consumption through the year. In reality, however, the experience of poverty is often marked by seasonality, economic instability, and illiquidity across months. To capture these elements, we introduce a measurement framework based on a straightforward generalization of conventional poverty measures, defining annual poverty as the average of monthly poverty measures. Using monthly panel data from India, we explore ways that the conventional approach to measurement can underestimate and mischaracterize the experience of poverty when households face the dual challenges of low incomes and instability. We show that experiences of poverty are substantially more common than annual measures suggest. Entry into and exit from poverty are much less clear than typically assumed, and the proposed measure is a stronger predictor of development outcomes -- weight and height -- than conventional measures. Correspondingly, the framework shows how interventions that re-distribute resources between periods can lessen the experience of poverty by improving consumption smoothing, even when conventional poverty measures based on yearly resources are unchanged or worsening. In considering hypothetical monthly transfers to households facing economic instability, for example, we show that targeting transfers to the most challenging months -- rather than spreading them through the year as in typical cash transfer programs -- can most cost-effectively reduce experiences of poverty.
 </small><br><br/></div>
 
 
