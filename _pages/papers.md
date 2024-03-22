@@ -65,6 +65,17 @@ The poverty rate is an important focus of economic policy. We show, however, tha
 
 
 
+**Does the timing of the school year affect child labor decisions in developing countries?** _Under review._<br/>
+<small>[ <a href="#/" onclick="visib('schagAbstract')">Abstract</a> | [Draft](/assets/papers/schoolag2023.pdf) ] </small>
+
+
+<div id="schagAbstract" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+In developing countries, agricultural productivity shocks are an important predictor of the opportunity cost of time for children. This can lead to children dropping out of school to work during good rainfall years. However, this trade-off between current and future income is most salient only when the agricultural season and the school year overlap. In this paper, I show that this overlap is an important mediator of the effect of agricultural productivity shocks on both child labor and school enrollment. A long overlap between the harvest season and the school year leads to a lower elasticity of child labor with respect to agricultural productivity shocks relative to harvest season that does not overlap with the school year. The entirety of the effect is driven by self-employment, which is consistent with a story of children working on household farms.
+</small><br><br/></div>
+
+
+
 
 **Minimum wages and unemployment during economic shocks** (with Matthew Sharp).<br/>
 <small>[ <a href="#/" onclick="visib('agWages')">Abstract</a> | [Draft](/assets/papers/MerfeldSharp2023.pdf) ] </small>
@@ -83,17 +94,6 @@ This paper studies whether a minimum wage changes how labour markets respond to 
 <div id="stabstract" style="display: none; text-align: justify; line-height: 1.2">
 <small>
 We show how access to electricity drives structural transformation in India. Using village-level data from population and economic censuses, we document increases in manufacturing employment and decreases in agricultural employment following the opening of a coal-fired power plant near a village. We also show that these increases are driven by increases in employment in larger firms. Evidence suggests there are increases in both the availability and consistency of electricity. Importantly, we show that areas exposed to pollution from coal plants see decreases in access to electricity and decreases in population and literacy rates relative to less exposed areas, despite an increase in employment concentration in larger firms. These results suggest that access to electricity can be a driver of the structural transformation process, but that the resulting pollution can be an important mediator.
-</small><br><br/></div>
-
-
-
-**Does the timing of the school year affect child labor decisions in developing countries?**<br/>
-<small>[ <a href="#/" onclick="visib('schagAbstract')">Abstract</a> | [Preliminary draft](/assets/papers/schoolag2023.pdf) ] </small>
-
-
-<div id="schagAbstract" style="display: none; text-align: justify; line-height: 1.2">
-<small>
-In developing countries, agricultural productivity shocks are an important predictor of the opportunity cost of time for children. This can lead to children dropping out of school to work during good rainfall years. However, this trade-off between current and future income is most salient only when the agricultural season and the school year overlap. In this paper, I show that this overlap is an important mediator of the effect of agricultural productivity shocks on both child labor and school enrollment. A long overlap between the harvest season and the school year leads to a lower elasticity of child labor with respect to agricultural productivity shocks relative to harvest season that does not overlap with the school year. The entirety of the effect is driven by self-employment, which is consistent with a story of children working on household farms.
 </small><br><br/></div>
 
 
