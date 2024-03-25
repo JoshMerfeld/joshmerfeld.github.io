@@ -109,6 +109,8 @@ We show how access to electricity drives structural transformation in India. Usi
 
 **Foreign Direct Investment and Micro-Level Structural Transformation in Sub-Saharan Africa** with Sunghun Lim.
 
+**Climate change and agriculture across the world** with Ariel Ortiz-Bobea and David Ubilava.
+
 
 
 
