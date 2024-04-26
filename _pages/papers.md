@@ -55,7 +55,7 @@ I document negative externalities of air pollution in the Indian agricultural se
 
 
 **Poverty at Higher Frequency** (with Jonathan Morduch). _Under review._<br/>
-<small>[ <a href="#/" onclick="visib('povAbstract')">Abstract</a> | [Draft](/assets/papers/merfeldmorduch2024.pdf) ] </small>
+<small>[ <a href="#/" onclick="visib('povAbstract')">Abstract</a> | [Draft](/assets/papers/merfeldmorduch2024.pdf) | [Most recent slides](/merfeldmorduch-slides/#1) ] </small>
 
 
 <div id="povAbstract" style="display: none; text-align: justify; line-height: 1.2">
