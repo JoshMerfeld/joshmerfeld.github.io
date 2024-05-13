@@ -21,6 +21,17 @@ Reliable estimates of economic welfare for small areas are valuable inputs into 
 </small><br><br/></div>
 
 
+
+
+**Air pollution and agricultural productivity in a developing country**.  Revision requested, _Journal of Development Economics_.<br/>
+<small>[ <a href="#/" onclick="visib('coal')">Abstract</a> | [Draft](/assets/papers/pollution2023.pdf) | [Most recent slides](/pollution-slides/#1) ] </small>
+
+<div id="coal" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+I document negative externalities of air pollution in the Indian agricultural sector. Using variation in pollution induced by changes in wind across years, I show that higher levels of pollution lead to decreased agricultural productivity, with large changes in productivity being common. The negative effects of pollution are larger in areas growing more labor-intensive crops, indicating that the pollution works at least partly through direct effects on labor productivity. Finally, combining wind direction with the rollout of coal plants, results indicate that pollution from coal plants has a larger effect on agricultural productivity than other types of pollution. Given that the agricultural sector is a refuge for the poor in many developing countries, these results suggest that the negative externalities of pollution may hit the poorest particularly hard.
+</small><br><br/></div>
+
+
 **Combining Survey and Geospatial Data Can Significantly Improve Gender-Disaggregated Estimates of Labor Market Outcomes** (with David Newhouse, Michael Weber, and Partha Lahiri). World Bank Policy Research Working Paper 10077. Revision requested, _Journal of the Royal Statistical Society: Series A_.<br/>
 <small>[ <a href="#/" onclick="visib('genderLabor')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099321406092229138/idu016f95e0806fc6044ea0b843007d5dc0ef17e) ] </small>
 
@@ -39,17 +50,6 @@ This article examines the extent to which combining survey data with publicly av
 <div id="satellite" style="display: none; text-align: justify; line-height: 1.2">
 <small>
 Estimates of poverty are an important input into policy formulation in developing countries. The accurate measurement of poverty rates is therefore a first-order problem for development policy. This paper shows that combining satellite imagery with household surveys can improve the precision and accuracy of estimated poverty rates in Mexican municipalities, a level at which the survey is not considered representative. It also shows that a household-level model outperforms other common small area estimation methods. However, poverty estimates in 2015 derived from geospatial data remain less accurate than 2010 estimates derived from household census data. These results indicate that the incorporation of household survey data and widely available satellite imagery can improve on existing poverty estimates in developing countries when census data are old or when patterns of poverty are changing rapidly, even for small subgroups.
-</small><br><br/></div>
-
-
-
-
-**Air pollution and agricultural productivity in a developing country**. _Under review._<br/>
-<small>[ <a href="#/" onclick="visib('coal')">Abstract</a> | [Draft](/assets/papers/pollution2023.pdf) | [Most recent slides](/pollution-slides/#1) ] </small>
-
-<div id="coal" style="display: none; text-align: justify; line-height: 1.2">
-<small>
-I document negative externalities of air pollution in the Indian agricultural sector. Using variation in pollution induced by changes in wind across years, I show that higher levels of pollution lead to decreased agricultural productivity, with large changes in productivity being common. The negative effects of pollution are larger in areas growing more labor-intensive crops, indicating that the pollution works at least partly through direct effects on labor productivity. Finally, combining wind direction with the rollout of coal plants, results indicate that pollution from coal plants has a larger effect on agricultural productivity than other types of pollution. Given that the agricultural sector is a refuge for the poor in many developing countries, these results suggest that the negative externalities of pollution may hit the poorest particularly hard.
 </small><br><br/></div>
 
 
