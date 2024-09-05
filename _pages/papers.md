@@ -42,7 +42,7 @@ This article examines the extent to which combining survey data with publicly av
 </small><br><br/></div>
 
 
-**Gender and hiring in SMEs: Evidence from an RCT in Bangladesh** with Asad Islam and Emily Beam (funding: £225,000). Revision requested, _Journal of Development Economics_ (pre-results review).<br/>
+**Gender and hiring in SMEs: Evidence from an RCT in Bangladesh** with Emily Beam, Asad Islam, and Naveen Wickremeratne (funding: £225,000). Revision requested, _Journal of Development Economics_ (pre-results review).<br/>
 <small>[ Summary coming soon. ] </small>
 
 
