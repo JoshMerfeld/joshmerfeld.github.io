@@ -23,7 +23,7 @@ Reliable estimates of economic welfare for small areas are valuable inputs into 
 
 
 
-**Air pollution and agricultural productivity in a developing country**.  Revision requested, _Journal of Development Economics_.<br/>
+**Air pollution and agricultural productivity in a developing country**. Revision requested, _Journal of Development Economics_.<br/>
 <small>[ <a href="#/" onclick="visib('coal')">Abstract</a> | [Draft](/assets/papers/pollution2023.pdf) | [Most recent slides](/pollution-slides/#1) ] </small>
 
 <div id="coal" style="display: none; text-align: justify; line-height: 1.2">
@@ -40,6 +40,10 @@ I document negative externalities of air pollution in the Indian agricultural se
 <small>
 This article examines the extent to which combining survey data with publicly available geospatial indicators improves estimates of state and municipal labor force statistics in urban Mexico. Model-based estimates of labor force participation and unemployment are generated separately for men and women, using a population-weighted nested-error conditional random effect model following an arcsin transformation, specified at the level of the Área Geoestadística Básica (AGEB). Two types of hypothetical samples are used to estimate the model: a simple random sample of individuals within AGEBs selected using proportional to size sampling, and a full enumeration of all households within those same AGEBs. The resulting small area estimates are compared against results from the full census. Incorporating geospatial data improves the precision and accuracy of state-level estimates for all four indicators, despite the weak predictive power of the unemployment rate model. At the municipality level, small area estimates substantially improve on survey estimates of labor force participation. For unemployment rates, the results when using the simple random sample are mixed because of the large number of municipalities with no unemployed persons in the sample. Using the full enumeration sample greatly improves municipal predictions for all four indicators. These results are robust to the use of repeated simulations of alternative samples. Integrating survey data and publicly available geospatial indicators significantly improves the accuracy and precision of both state-level estimates and estimated municipal labor force participation rates at negligible cost, but accurately estimating low-probability events like unemployment with a linear model requires large samples within target areas.
 </small><br><br/></div>
+
+
+**Gender and hiring in SMEs: Evidence from an RCT in Bangladesh** with Asad Islam and Emily Beam (funding: £225,000). Revision requested, _Journal of Development Economics_ (pre-results review).<br/>
+<small>[ Summary coming soon. ] </small>
 
 
 
@@ -99,9 +103,6 @@ We show how access to electricity drives structural transformation in India. Usi
 
 # <center> Works in progress </center>
 - - -
-
-
-**Gender and hiring in SMEs: Evidence from an RCT in Bangladesh** with Asad Islam and Emily Beam (funding: £225,000).
 
 **Structural Transformation in a Changing Climate** with Rajeev Dehejia.
 
