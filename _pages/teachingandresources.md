@@ -35,6 +35,7 @@ Stay tuned for a primer aimed at discussing the ins and outs of integrating geos
 
 - This work is with UN Stats and is aimed at practitioners and national statistics offices, but it will also contain a short guide on using geospatial data. 
 - In the meantime, please check out UN Stats' SAE4SDG page, [here](https://unstats.un.org/wiki/display/SAE4SDG/).
+- As part of this work, I taught a workshop in Nairobi, in combination with UN Stats, UN ECA, and UN EAC, on integrating geospatial data into small area estimation. You can find my slides [here](https://github.com/JoshMerfeld/nairobiworkshops).
 
 
 
