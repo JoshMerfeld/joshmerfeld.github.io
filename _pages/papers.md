@@ -104,9 +104,11 @@ We show how access to electricity drives structural transformation in India. Usi
 # <center> Works in progress </center>
 - - -
 
-**Structural Transformation in a Changing Climate** with Rajeev Dehejia.
+**Inequality and consumption variability** with Jonathan Morduch (preliminary slides [**here**](joshmerfeld.github.io/inequality-slides/merfeldmorduch.html).
 
 **Improving Estimates of Human Capital** with Lanu Kim, Peter Lanjouw, David Newhouse, and Michael Weber.
+
+**Structural Transformation in a Changing Climate** with Rajeev Dehejia.
 
 **Climate change and agriculture across the world** with Ariel Ortiz-Bobea and David Ubilava.
 
