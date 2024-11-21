@@ -104,7 +104,7 @@ We show how access to electricity drives structural transformation in India. Usi
 # <center> Works in progress </center>
 - - -
 
-**Inequality and consumption variability** with Jonathan Morduch (preliminary slides [**here**](joshmerfeld.github.io/inequality-slides/merfeldmorduch.html).
+**Inequality and consumption variability** with Jonathan Morduch (preliminary slides [**here**](joshmerfeld.github.io/inequality-slides/merfeldmorduch.html)).
 
 **Improving Estimates of Human Capital** with Lanu Kim, Peter Lanjouw, David Newhouse, and Michael Weber.
 
