@@ -27,11 +27,17 @@ I teach an advanced masters/Ph.D. class on applied microeconometrics in R. The r
 - Note that I have transitioned to `Quarto` and HTML slides, but the older markdown files are available in the [weeks folder](https://github.com/JoshMerfeld/applied-microeconometrics/tree/main/weeks).
 
 
+
 ## Geospatial data analysis in R
 
 I teach a masters class on geospatial data analysis in `R`. The resources are available on my Github page, [**here**](https://github.com/JoshMerfeld/geospatialdataR).
 
 - All slides are HTML and made using `Quarto` (in `R`).
+
+
+# General resources
+
+- I put together a short explanation of some common data wrangling tasks in `R` for my students. You can find it [**here**](https://joshmerfeld.github.io/applied-microeconometrics/datawrangling.html).
 
 
 # Working with others
