@@ -33,7 +33,12 @@ I document negative externalities of air pollution in the Indian agricultural se
 
 
 **Gender and hiring in SMEs: Evidence from an RCT in Bangladesh** with Emily Beam, Asad Islam, and Naveen Wickremeratne (funding: £225,000). Revision requested, _Journal of Development Economics_ (pre-results review).<br/>
-<small>[ Summary coming soon. ] </small>
+<small>[ <a href="#/" onclick="visib('rct1')">Abstract</a> | [Pre-Analysis Plan](/assets/papers/gendernormsPAP.pdf) ] </small>
+
+<div id="rct1" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+Gender norms shape women’s access to employment opportunities and their experiences in the workplace, with potential implications for firm productivity. We conduct a randomized controlled trial in Bangladesh, involving 5,000 workers and firm owners across 1,900 small and medium-sized enterprises (SMEs), to explore the impact of promoting gender-equitable norms. Workers and firm owners in randomly selected markets participate in an intensive three-day gender norms training program. We assess the impact of this intervention on gender attitudes, women’s workplace experiences, inter-employee interactions, and firm productivity using a combination of self-reported survey data and lab-in-the-field experiments. By examining the malleability of gender norms and their influence on workplace dynamics and productivity, this study contributes to the design of policies and interventions aimed at fostering more equitable work environments and enhancing firm performance.
+</small><br><br/></div>
 
 
 **Combining Survey and Geospatial Data Can Significantly Improve Gender-Disaggregated Estimates of Labor Market Outcomes** (with David Newhouse, Michael Weber, and Partha Lahiri). World Bank Policy Research Working Paper 10077. Revision requested, _Journal of the Royal Statistical Society: Series A_.<br/>
