@@ -11,6 +11,12 @@ author_profile: true
 # <center> Teaching and resources </center>
 - - -
 
+
+# Data wrangling in `R`
+
+- I put together a short explanation of some common data wrangling tasks in `R` for my students. You can find it [**here**](https://joshmerfeld.github.io/rintro/datawrangling.html).
+
+
 # Class materials
 
 I teach two classes here at the KDI School for which I have made my materials publicly available. In both cases:
@@ -28,16 +34,11 @@ I teach an advanced masters/Ph.D. class on applied microeconometrics in R. The r
 
 
 
-## Geospatial data analysis in R
+## Geospatial data analysis in `R`
 
 I teach a masters class on geospatial data analysis in `R`. The resources are available on my Github page, [**here**](https://github.com/JoshMerfeld/geospatialdataR).
 
 - All slides are HTML and made using `Quarto` (in `R`).
-
-
-# General resources
-
-- I put together a short explanation of some common data wrangling tasks in `R` for my students. You can find it [**here**](https://joshmerfeld.github.io/rintro/datawrangling.html).
 
 
 # Working with others
