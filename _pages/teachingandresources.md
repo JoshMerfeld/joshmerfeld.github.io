@@ -37,7 +37,7 @@ I teach a masters class on geospatial data analysis in `R`. The resources are av
 
 # General resources
 
-- I put together a short explanation of some common data wrangling tasks in `R` for my students. You can find it [**here**](https://joshmerfeld.github.io/applied-microeconometrics/datawrangling.html).
+- I put together a short explanation of some common data wrangling tasks in `R` for my students. You can find it [**here**](https://joshmerfeld.github.io/rintro/datawrangling.html).
 
 
 # Working with others
