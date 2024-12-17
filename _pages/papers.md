@@ -66,10 +66,16 @@ Estimates of poverty are an important input into policy formulation in developin
 **Poverty at Higher Frequency** (with Jonathan Morduch). _Under review._<br/>
 <small>[ <a href="#/" onclick="visib('povAbstract')">Abstract</a> | [Draft](/assets/papers/merfeldmorduch2024.pdf) | [Most recent slides](/merfeldmorduch-slides/#1) ] </small>
 
-
 <div id="povAbstract" style="display: none; text-align: justify; line-height: 1.2">
 <small>
 The poverty rate is an important focus of economic policy. We show, however, that in low- and middle-income countries, the poverty rate is often not what it seems. Poverty, as conventionally measured, is thought to be the proportion of households that are poor for the year, but we show that, under common data collection practices, the measure instead captures the average share of the year that households are poor. The resulting poverty rates are sensitive to the timing of household consumption, not just its total value. For policy, this means that, contrary to common assumptions, the *de facto* concept of national poverty in many countries is sensitive to households’ exposure to shocks and their ability to smooth consumption within the year. While created inadvertently, this *de facto* concept of poverty has appealing properties as a measure of well-being, and it raises new philosophical questions about the nature of deprivation. This transformation has happened without a change in the form of the poverty measures and without longitudinal data. Instead, the transformation follows from three common practices used when collecting household data: asking survey questions with short-term recall (often covering only the past week’s or month’s spending), stratifying on sub-periods (usually quarters), and surveying households only once during the year. We illustrate the implications with monthly panel data from rural India, showing that time-sensitivity in poverty measurement has quantitatively large impacts on measured poverty, improves predictions of health outcomes, and expands the scope of strategies to reduce global poverty.
+</small><br><br/></div>
+
+<small>[ <a href="#/" onclick="visib('mediapov')">Media coverage</a> ] </small>
+
+<div id="mediapov" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+- [Ideas for India](https://www.ideasforindia.in/topics/poverty-inequality/india-s-poverty-rate-does-not-measure-what-you-think-it-does.html)
 </small><br><br/></div>
 
 
