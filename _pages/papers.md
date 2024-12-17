@@ -73,7 +73,9 @@ The poverty rate is an important focus of economic policy. We show, however, tha
 
 <div id="mediapov" style="display: none; text-align: justify; line-height: 1.2">
 <small>
-- [Ideas for India](https://www.ideasforindia.in/topics/poverty-inequality/india-s-poverty-rate-does-not-measure-what-you-think-it-does.html)
+
+[Ideas for India](https://www.ideasforindia.in/topics/poverty-inequality/india-s-poverty-rate-does-not-measure-what-you-think-it-does.html)
+
 </small><br><br/></div>
 
 
