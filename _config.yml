@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Josh Merfeld"
   avatar           : "merfeld.png"
-  bio              : "Development, labor, poverty, and data <br> <br> Associate Professor at the KDI School <br> Research Affiliate, IZA <br> Invited researcher, J-PAL"
+  bio              : "Development, labor, poverty, and data <br> <br> Associate Professor, KDI School <br> Research Fellow, IZA <br> Invited researcher, J-PAL"
   location         : "Sejong City, South Korea"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=wPPXKHcAAAAJ&hl=en"
-  email            : "merfeld [at] kdis [dot] ac [dot] kr"
+  email            : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "joshmerfeld"
+  github           : "JoshMerfeld"
   google_plus      :
   keybase          :
   instagram        : 
