@@ -13,7 +13,7 @@ permalink: /papers/
 
 
 **Improving Estimates of Mean Welfare and Uncertainty in Developing Countries** with David Newhouse. World Bank Policy Research Working Paper 10348. Revision requested, _Review of Economics and Statistics_.<br/>
-<small>[ <a href="#/" onclick="visib('ml')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099413503082334933) ] </small>
+<small>[ <a href="#/" onclick="visib('ml')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099413503082334933) | [Most recent slides](/meanuncertaintyslides/#/title-slide) ] </small>
 
 <div id="ml" style="display: none; text-align: justify; line-height: 1.2">
 <small>
