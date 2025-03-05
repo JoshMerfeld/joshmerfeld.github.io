@@ -2,6 +2,7 @@
 permalink: /contact/
 title: "Contact"
 excerpt: "Contact me"
+classes: wide
 author_profile: true
 ---
 
