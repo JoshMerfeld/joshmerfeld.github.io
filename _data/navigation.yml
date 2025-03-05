@@ -13,8 +13,8 @@ main:
   - title: "Teaching and resources"
     url: /teachingandresources/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Applied metrics blog"
+    url: /appliedmetricsblog/
   
   - title: "Contact"
     url: /contact/
