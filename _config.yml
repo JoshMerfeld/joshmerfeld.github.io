@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+remote_theme: pages-themes/minimal@v0.2.0
 locale                   : "en-US"
 title                    : "Joshua D. Merfeld"
 title_separator          : "-"
@@ -149,6 +150,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - jekyll-remote-theme
 keep_files:
   - .git
   - .svn
