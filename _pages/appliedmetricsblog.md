@@ -1,6 +1,6 @@
 ---
 permalink: /appliedmetricsblog/
-title: "Applied metrics blog"
+title: "Blog"
 excerpt: "blog"
 author_profile: true
 layout: archive
@@ -11,8 +11,7 @@ author_profile: true
 <br/> 
 
 
-# <center> Blog </center>
-- - -
+# Applied Metrics Blog
 
 
 
