@@ -1,8 +1,11 @@
 ---
-title: 
+permalink: /appliedmetricsblog/
+title: "Applied metrics blog"
+excerpt: "blog"
+author_profile: true
 layout: archive
 classes: wide
-permalink: /appliedmetricsblog/
+
 author_profile: true
 ---
 <br/> 
