@@ -19,6 +19,8 @@
 
     @include breakpoint($xx-large) {
       max-width: $xx-large;
+      display: flex;
+      justify-content: right;
     }
 
     nav {
@@ -28,9 +30,6 @@
     a {
       text-decoration: none;
     }
-
-    display: flex;
-    justify-content: right;
   }
 }
 
