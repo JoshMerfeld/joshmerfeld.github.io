@@ -19,7 +19,6 @@
 
     @include breakpoint($xx-large) {
       max-width: $xx-large;
-      justify-content: right;
     }
 
     nav {
@@ -46,6 +45,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  justify-content: right;
 
   &--lg {
     padding-right: 2em;
