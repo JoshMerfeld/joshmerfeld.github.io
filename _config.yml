@@ -318,7 +318,6 @@ compress_html:
   ignore:
     envs: development
 
-# max width
-max_width: 1200px
+
 
 
