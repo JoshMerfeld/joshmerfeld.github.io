@@ -19,7 +19,6 @@
 
     @include breakpoint($xx-large) {
       max-width: $xx-large;
-      display: flex;
       justify-content: right;
     }
 
