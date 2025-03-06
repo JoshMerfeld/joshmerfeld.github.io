@@ -18,8 +18,8 @@ copyCodeButtons.forEach((copyCodeButton, index) => {
 
     // After 2 seconds, reset the button to its initial UI
     setTimeout(() => {
-      copyCodeButton.innerText = originalText;
-      copyCodeButton.classList.remove('copied');
+        copyCodeButton.innerText = originalText;
+        copyCodeButton.classList.remove('copied');
     }, 2000);
   });
 });
