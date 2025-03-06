@@ -1,6 +1,7 @@
-/* ==========================================================================
-   Syntax highlighting
-   ========================================================================== */
+ 
+/*========================================================================
+Syntax highlighting
+========================================================================*/
 
 div.highlighter-rouge, figure.highlight {
   position: relative;
@@ -19,7 +20,7 @@ div.highlighter-rouge, figure.highlight {
     background-color: $lighter-gray;
     content: "\f121";
     font-family: "fontawesome" !important;
-    font-size: $type-size-3;
+    font-size: $type-size-5;
     line-height: 1;
     text-transform: none;
     speak: none;
@@ -28,7 +29,7 @@ div.highlighter-rouge, figure.highlight {
   .highlight {
     margin: 0;
     font-family: $monospace;
-    font-size: $type-size-3;
+    font-size: $type-size-5;
     line-height: 1.8;
   }
 }
@@ -38,20 +39,20 @@ div.highlighter-rouge, figure.highlight {
 
 
 /*
-   Solarized Light
-   http://ethanschoonover.com/solarized
+Solarized Light
+http://ethanschoonover.com/solarized
 
-   SOLARIZED HEX      ROLE
-   --------- -------- ------------------------------------------
-   base01    #586e75  body text / default code / primary content
-   base1     #93a1a1  comments / secondary content
-   base3     #fdf6e3  background
-   orange    #cb4b16  constants
-   red       #dc322f  regex, special keywords
-   blue      #22b3eb  reserved keywords
-   cyan      #2aa198  strings, numbers
-   green     #859900  operators, other keywords
-   ========================================================================== */
+SOLARIZED HEX      ROLE
+--------- -------- ------------------------------------------
+base01    #586e75  body text / default code / primary content
+base1     #93a1a1  comments / secondary content
+base3     #fdf6e3  background
+orange    #cb4b16  constants
+red       #dc322f  regex, special keywords
+blue      #22b3eb  reserved keywords
+cyan      #2aa198  strings, numbers
+green     #859900  operators, other keywords
+========================================================================== */
 
 .highlight .c { color: #93a1a1 } /* Comment */
 .highlight .err { color: #586e75 } /* Error */
