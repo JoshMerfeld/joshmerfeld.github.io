@@ -24,7 +24,6 @@
   }
 
   .page__inner-wrap {
-    @include full();
     @include breakpoint($xx-large)
 
     .page__content,
