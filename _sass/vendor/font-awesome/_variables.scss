@@ -680,8 +680,6 @@ $fa-var-tv: "\f26c";
 $fa-var-twitch: "\f1e8";
 $fa-var-twitter: "\f099";
 $fa-var-twitter-square: "\f081";
-$fa-var-bluesky: "images/square-bluesky.png";
-$fa-var-bluesky-square: "images/square-bluesky.png";
 $fa-var-umbrella: "\f0e9";
 $fa-var-underline: "\f0cd";
 $fa-var-undo: "\f0e2";
@@ -744,3 +742,7 @@ $fa-var-youtube: "\f167";
 $fa-var-youtube-play: "\f16a";
 $fa-var-youtube-square: "\f166";
 
+
+
+$fa-var-bluesky: url("images/square-bluesky.png");
+$fa-var-bluesky-square: url("images/square-bluesky.png");
