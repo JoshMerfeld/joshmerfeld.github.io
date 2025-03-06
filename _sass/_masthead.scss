@@ -45,11 +45,9 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  justify-content: right;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 5em;
     font-weight: 700;
-    justify-content: left;
   }
 }
