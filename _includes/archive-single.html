@@ -12,6 +12,8 @@
   {% assign title = post.title %}
 {% endif %}
 
+<script src="/assets/scripts/copyCode.js"></script>
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item">
     {% if include.type == "grid" and teaser %}
