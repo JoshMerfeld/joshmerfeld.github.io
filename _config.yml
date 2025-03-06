@@ -214,6 +214,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+    max_width: 1200px
   # _teaching
   - scope:
       path: ""
