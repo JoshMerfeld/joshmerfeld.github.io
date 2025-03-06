@@ -2,6 +2,7 @@
 permalink: /
 title: "About"
 excerpt: "About me"
+layout: archive
 classes: wide
 author_profile: true
 ---
