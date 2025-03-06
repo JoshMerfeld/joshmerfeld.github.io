@@ -46,6 +46,10 @@ div.highlighter-rouge, figure.highlight {
     border: none;
     border-radius: 0 0 0 5px;
   }
+
+  &:hover .copy-code-button {
+    opacity: 1;
+  }
 }
 
 .highlight table td { padding: 5px; }
