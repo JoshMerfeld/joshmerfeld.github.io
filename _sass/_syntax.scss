@@ -31,6 +31,19 @@ div.highlighter-rouge, figure.highlight {
     font-size: $type-size-5;
     line-height: 1.8;
   }
+
+  .copy-code-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0.5em;
+    background-color: $lighter-gray;
+    font-family: "fontawesome" !important;
+    font-size: $type-size-5;
+    line-height: 1;
+    text-transform: none;
+    cursor: pointer;
+  }
 }
 
 .highlight table td { padding: 5px; }
