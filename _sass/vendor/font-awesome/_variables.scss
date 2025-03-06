@@ -743,10 +743,6 @@ $fa-var-youtube-play: "\f16a";
 $fa-var-youtube-square: "\f166";
 
 
-:root {
-    --bluesky: url("assets/square-bluesky.png");
-    --bluesky-square: url("assets/square-bluesky.png");
-}
 
-// $fa-var-bluesky: url("https://github.com/JoshMerfeld/joshmerfeld.github.io/blob/master/images/square-bluesky.png");
-// $fa-var-bluesky-square: url("https://github.com/JoshMerfeld/joshmerfeld.github.io/blob/master/images/square-bluesky.png");
+$fa-var-bluesky: url("../../images/square-bluesky.png");
+$fa-var-bluesky-square: url("../../images/square-bluesky.png");
