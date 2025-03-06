@@ -18,7 +18,7 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
-
+<link rel="shortcut icon" type="image/png" href="favicon.png">
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
@@ -40,12 +40,12 @@
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
-      {% if author.bluesky %}
-        <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fa fa-fw fa-bluesky-square" aria-hidden="true"></i>Bluesky</a></li>
-      {% endif %}
       <!-- {% if author.bluesky %}
-        <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><link type="image/png" href="/images/square-bluesky.png"></i>Bluesky</a></li>
+        <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fa fa-fw fa-bluesky-square" aria-hidden="true"></i>Bluesky</a></li>
       {% endif %} -->
+      {% if author.bluesky %}
+        <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><link rel="shortcut icon" type="image/png" href="square-bluesky.png"></i>Bluesky</a></li>
+      {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
