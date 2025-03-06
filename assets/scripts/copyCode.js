@@ -3,7 +3,10 @@ const codeBlocks = document.querySelectorAll('.highlighter-rouge');
 const copyCodeButtons = document.querySelectorAll('.copy-code-button');
 
 copyCodeButtons.forEach((copyCodeButton, index) => {
-  const code = codeBlocks[index].innerText;
+  const codeBlock = codeBlocks[index];
+  const code = codeBlock.innerText;
+  const languageClass = Array.from(codeBlock.classList).find(cls => cls.startsWith('language-'));
+  const language = languageClass ? languageClass.replace('language-', '') : 'code';
 
   copyCodeButton.addEventListener('click', () => {
     // Copy the code to the user's clipboard
@@ -11,7 +14,7 @@ copyCodeButtons.forEach((copyCodeButton, index) => {
 
     // Update the button text visually
     const { innerText: originalText } = copyCodeButton;
-    copyCodeButton.innerText = 'Copied!';
+    copyCodeButton.innerText = `Copied ${language}!`;
 
     // (Optional) Toggle a class for styling the button
     copyCodeButton.classList.add('copied');
