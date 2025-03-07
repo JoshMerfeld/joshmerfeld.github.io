@@ -32,12 +32,18 @@
 }
 
 .masthead__menu {
+  display: flex;
+  justify-content: flex-end; // Right-align the regular menu items
 
   ul {
     margin: 0;
     padding: 0;
-    clear: both;
     list-style-type: none;
+    display: flex;
+  }
+
+  &--lg {
+    margin-left: auto; // Push the --lg items to the left
   }
 }
 
@@ -45,6 +51,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  padding-right: 1em;
 
   &--lg {
     padding-right: 5em;
