@@ -1,6 +1,5 @@
 ---
 title: 
-layout: archive
 classes: wide
 permalink: /papers/
 ---

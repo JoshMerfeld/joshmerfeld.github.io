@@ -1,6 +1,5 @@
 ---
 title: 
-layout: archive
 classes: wide
 permalink: /teachingandresources/
 author_profile: true
