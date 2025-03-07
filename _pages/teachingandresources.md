@@ -11,13 +11,13 @@ author_profile: true
 - - -
 
 
-# Data wrangling in `R`
+## Data wrangling in `R`
 
 - I put together a short explanation of some common data wrangling tasks in `R` for my students. You can find it [**here**](https://joshmerfeld.github.io/rintro/datawrangling.html).
 
 - - -
 
-# Class materials
+## Class materials
 
 I teach two classes here at the KDI School for which I have made my materials publicly available. In both cases:
 
@@ -26,7 +26,7 @@ I teach two classes here at the KDI School for which I have made my materials pu
 - Please feel free to make use of any of the code. Or, if you have questions, feel free to e-mail me!
   - If you find something of interest in the HTML slides, then definitely check out the `.qmd` files. There are examples of animating graphs, creating maps, and much more.
 
-## Applied microeconometrics in R
+### Applied microeconometrics in R
 
 I teach an advanced masters/Ph.D. class on applied microeconometrics in R. The resources are available on my Github page, [**here**](https://github.com/JoshMerfeld/applied-microeconometrics).
 
@@ -42,7 +42,7 @@ I teach a masters class on geospatial data analysis in `R`. The resources are av
 
 - - -
 
-# Working with others
+## Working with others
 
 I put together some slides for our Ph.D. students focused on setting up projects when working with others. These slides focus on two things:
 
@@ -53,7 +53,7 @@ You can view the slides [**here**](https://joshmerfeld.github.io/sharedworkspace
 
 - - -
 
-# Geospatial data and small area estimation
+## Geospatial data and small area estimation
 
 Stay tuned for a primer aimed at discussing the ins and outs of integrating geospatial data and survey data for small area estimation in R, with a particular emphasis on improving estimates of SDGs.
 
