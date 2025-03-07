@@ -10,9 +10,6 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  width: 100%;
-  max-width: none;
-  text-align: center;
 
   &__inner-wrap {
     @include container;
@@ -20,12 +17,6 @@
     padding: 1em 1em 1em;
     text-align: center;
     font-family: $sans-serif-narrow;
-
-    @include breakpoint($xx-large) {
-      @include span(11 of 12 last);
-      @include prefix(0.5 of 12);
-      @include suffix(1 of 12);
-    }
 
     nav {
       z-index: 10;
