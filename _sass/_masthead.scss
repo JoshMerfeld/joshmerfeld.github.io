@@ -10,6 +10,8 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+  width: 100%;
+  max-width: none;
 
   &__inner-wrap {
     @include container;
@@ -18,7 +20,7 @@
     font-family: $sans-serif-narrow;
 
     @include breakpoint($xx-large) {
-      max-width: $xx-large;
+      max-width: none;
     }
 
     nav {
