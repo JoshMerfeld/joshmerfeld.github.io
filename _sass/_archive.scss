@@ -6,7 +6,8 @@
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
-    @include span(12 of 12);
+    @include span(10 of 12);
+    @include prefix(0.5 of 12);
   }
 
   @include breakpoint($large) {
