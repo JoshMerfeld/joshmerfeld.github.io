@@ -12,6 +12,7 @@
   z-index: 20;
   width: 100%;
   max-width: none;
+  text-align: center;
 
   &__inner-wrap {
     @include container;
