@@ -11,6 +11,17 @@ permalink: /papers/
 
 
 
+**Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with David Newhouse, Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri). Conditionally accepted, _Oxford Bulletin of Economics and Statistics_.<br/>
+<small>[ <a href="#/" onclick="visib('satellite')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099430309142231728/idu0660868530404c0414e0bf180797b525682a5) ] </small>
+
+
+<div id="satellite" style="display: none; text-align: justify; line-height: 1.2">
+<small>
+Estimates of poverty are an important input into policy formulation in developing countries. The accurate measurement of poverty rates is therefore a first-order problem for development policy. This paper shows that combining satellite imagery with household surveys can improve the precision and accuracy of estimated poverty rates in Mexican municipalities, a level at which the survey is not considered representative. It also shows that a household-level model outperforms other common small area estimation methods. However, poverty estimates in 2015 derived from geospatial data remain less accurate than 2010 estimates derived from household census data. These results indicate that the incorporation of household survey data and widely available satellite imagery can improve on existing poverty estimates in developing countries when census data are old or when patterns of poverty are changing rapidly, even for small subgroups.
+</small><br><br/></div>
+
+
+
 **Improving Estimates of Mean Welfare and Uncertainty in Developing Countries** with David Newhouse. World Bank Policy Research Working Paper 10348. Revision requested, _Review of Economics and Statistics_.<br/>
 <small>[ <a href="#/" onclick="visib('ml')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099413503082334933) | [Most recent slides](/meanuncertaintyslides/#/title-slide) ] </small>
 
@@ -47,17 +58,6 @@ Gender norms shape women’s access to employment opportunities and their experi
 <div id="genderLabor" style="display: none; text-align: justify; line-height: 1.2">
 <small>
 This article examines the extent to which combining survey data with publicly available geospatial indicators improves estimates of state and municipal labor force statistics in urban Mexico. Model-based estimates of labor force participation and unemployment are generated separately for men and women, using a population-weighted nested-error conditional random effect model following an arcsin transformation, specified at the level of the Área Geoestadística Básica (AGEB). Two types of hypothetical samples are used to estimate the model: a simple random sample of individuals within AGEBs selected using proportional to size sampling, and a full enumeration of all households within those same AGEBs. The resulting small area estimates are compared against results from the full census. Incorporating geospatial data improves the precision and accuracy of state-level estimates for all four indicators, despite the weak predictive power of the unemployment rate model. At the municipality level, small area estimates substantially improve on survey estimates of labor force participation. For unemployment rates, the results when using the simple random sample are mixed because of the large number of municipalities with no unemployed persons in the sample. Using the full enumeration sample greatly improves municipal predictions for all four indicators. These results are robust to the use of repeated simulations of alternative samples. Integrating survey data and publicly available geospatial indicators significantly improves the accuracy and precision of both state-level estimates and estimated municipal labor force participation rates at negligible cost, but accurately estimating low-probability events like unemployment with a linear model requires large samples within target areas.
-</small><br><br/></div>
-
-
-
-**Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with David Newhouse, Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri). Revision requested, _Oxford Bulletin of Economics and Statistics_.<br/>
-<small>[ <a href="#/" onclick="visib('satellite')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099430309142231728/idu0660868530404c0414e0bf180797b525682a5) ] </small>
-
-
-<div id="satellite" style="display: none; text-align: justify; line-height: 1.2">
-<small>
-Estimates of poverty are an important input into policy formulation in developing countries. The accurate measurement of poverty rates is therefore a first-order problem for development policy. This paper shows that combining satellite imagery with household surveys can improve the precision and accuracy of estimated poverty rates in Mexican municipalities, a level at which the survey is not considered representative. It also shows that a household-level model outperforms other common small area estimation methods. However, poverty estimates in 2015 derived from geospatial data remain less accurate than 2010 estimates derived from household census data. These results indicate that the incorporation of household survey data and widely available satellite imagery can improve on existing poverty estimates in developing countries when census data are old or when patterns of poverty are changing rapidly, even for small subgroups.
 </small><br><br/></div>
 
 
