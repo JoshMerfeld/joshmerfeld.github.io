@@ -58,7 +58,7 @@ You can view the slides [**here**](https://joshmerfeld.github.io/sharedworkspace
 Stay tuned for a primer aimed at discussing the ins and outs of integrating geospatial data and survey data for small area estimation in R, with a particular emphasis on improving estimates of SDGs.
 
 - This work is with UN Stats and is aimed at practitioners and national statistics offices, but it will also contain a short guide on using geospatial data. 
-- In the meantime, please check out UN Stats' SAE4SDG page, [**here**](https://unstats.un.org/wiki/display/SAE4SDG/).
+- In the meantime, please check out UN Stats' SAE4SDG page, [**here**](https://unstats.un.org/wiki/display/SAE4SDG/). An updated version of our geospatial SAE primer is available [**here**](https://unstats.un.org/UNSDWebsite/statcom/session_56/documents/BG-3p-Geospatial_SAE_Primer-E.pdf).
 - As part of this work, I taught a workshop in Nairobi and one in Bangkok, in combination with UN Stats, UNECA, UNEAC, and UNESCAP on integrating geospatial data into small area estimation. 
 Much of this draws from my geospatial class above, but you can also find the slides for the Bangkok workshop on the UNESCAP GitHub page, [**here**](https://github.com/ESCAP-SD/bangkokgeospatialsae).
 - There are also two upcoming `R` packages that will make this easier. Please check back for updates!
