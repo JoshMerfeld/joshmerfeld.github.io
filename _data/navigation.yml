@@ -13,8 +13,8 @@ main:
   - title: "teaching and resources"
     url: /teachingandresources/
 
-  - title: "blog"
-    url: /empiricaldevelopmentblog/
+  # - title: "blog"
+  #   url: /empiricaldevelopmentblog/
   
   - title: "contact"
     url: /contact/
