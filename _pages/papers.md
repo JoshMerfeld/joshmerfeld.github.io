@@ -11,23 +11,13 @@ permalink: /papers/
 
 
 
-**Small Area Estimation of Monetary Poverty in Mexico using Satellite Imagery and Machine Learning** (with David Newhouse, Anusha Pudugramam Ramakrishnan, Tom Swartz, and Partha Lahiri). Conditionally accepted, _Oxford Bulletin of Economics and Statistics_.<br/>
-<small>[ <a href="#/" onclick="visib('satellite')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099430309142231728/idu0660868530404c0414e0bf180797b525682a5) ] </small>
 
-
-<div id="satellite" style="display: none; text-align: justify; line-height: 1.2">
-<small>
-Estimates of poverty are an important input into policy formulation in developing countries. The accurate measurement of poverty rates is therefore a first-order problem for development policy. This paper shows that combining satellite imagery with household surveys can improve the precision and accuracy of estimated poverty rates in Mexican municipalities, a level at which the survey is not considered representative. It also shows that a household-level model outperforms other common small area estimation methods. However, poverty estimates in 2015 derived from geospatial data remain less accurate than 2010 estimates derived from household census data. These results indicate that the incorporation of household survey data and widely available satellite imagery can improve on existing poverty estimates in developing countries when census data are old or when patterns of poverty are changing rapidly, even for small subgroups.
-</small><br><br/></div>
-
-
-
-**Improving Estimates of Mean Welfare and Uncertainty in Developing Countries** with David Newhouse. World Bank Policy Research Working Paper 10348. Revision requested, _Review of Economics and Statistics_.<br/>
-<small>[ <a href="#/" onclick="visib('ml')">Abstract</a> | [Draft](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099413503082334933) | [Most recent slides](/meanuncertaintyslides/#/title-slide) ] </small>
+**Improving Estimates of Mean Welfare and Uncertainty in Developing Countries** with Hai-Anh Dang and David Newhouse. World Bank Policy Research Working Paper 10348. Revision requested, _Review of Economics and Statistics_.<br/>
+<small>[ <a href="#/" onclick="visib('ml')">Abstract</a> | (/assets/papers/improvingestimates.pdf) ] </small>
 
 <div id="ml" style="display: none; text-align: justify; line-height: 1.2">
 <small>
-Reliable estimates of economic welfare for small areas are valuable inputs into the design and evaluation of development policies. This paper compares the accuracy of point estimates and confidence intervals for small area estimates of wealth and poverty derived from four different prediction methods: linear mixed models, Cubist regression, extreme gradient boosting, and boosted regression forests. The evaluation draws samples from unit-level household census data from four separate developing countries, combines them with publicly and globally available geospatial indicators to generate small area estimates, and evaluates these estimates against aggregates calculated using the full census. Predictions of wealth are evaluated in four countries and poverty in one. All three machine learning methods outperform the traditional linear mixed model, with extreme gradient boosting and boosted regression forests generally outperforming the other alternatives. The proposed residual bootstrap procedure reliably estimates confidence intervals for the machine learning estimators, with estimated coverage rates across simulations falling between 94 and 97 percent. These results demonstrate that predictions obtained using tree-based gradient boosting with a random effect block bootstrap generate more accurate point and uncertainty estimates than prevailing methods for generating small area welfare estimates.
+Reliable small-area estimates of economic welfare significantly inform the design and evaluation of development policies. This paper compares the accuracy of wealth estimates obtained from the empirical best predictor (EBP) of a linear nested error model, Cubist regression, extreme gradient boosting, and boosted regression forests. The evaluation draws two-stage samples from unit-level household census data in seven developing countries, combines them with publicly available geospatial indicators to generate small area estimates of assets for all seven countries and poverty for two, and evaluates these estimates against census-derived benchmarks. Extreme gradient boosting and Cubist regression generally produce more accurate predictions than traditional EBP models. A proposed two-stage residual bootstrap procedure slightly underestimates confidence intervals, but leads to higher coverage rates than the parametric bootstrap approach used for EBP predictions. These results demonstrate that, given a sufficiently large sample of enumeration areas, predictions from extreme gradient boosting or Cubist regression with a two-stage residual block bootstrap generally provide more accurate point and uncertainty estimates for generating small-area welfare estimates.
 </small><br><br/></div>
 
 
