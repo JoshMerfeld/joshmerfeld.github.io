@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-I am currently an associate professor at the KDI School of Public Policy and Management in Sejong City, South Korea, but will be starting as a Senior Lecturer in the School of Economics at the University of Queensland from July 1st. I am also a Research Fellow at IZA (Institute of Labor Economics) in Bonn, Germany, an Invited Researcher with the Abdul Latif Jameel Poverty Action Lab (J-PAL), and an Affiliated Researcher at Global Action for Policy (GAP).
+I am a Senior Lecturer in the School of Economics at the University of Queensland. Prior to joining UQ, I was an Associate Professor at the KDI School of Public Policy and Governance in Sejong City, South Korea. I am also a Research Fellow at IZA (Institute of Labor Economics) in Bonn, Germany, an Invited Researcher with the Abdul Latif Jameel Poverty Action Lab (J-PAL), and an Affiliated Researcher at Global Action for Policy (GAP).
 
 My research and teaching interests include development, applied microeconometrics, agriculture, poverty, and the environment. I am particularly interested in using new data sources and new empirical methods to improve our understanding of a wide range of outcomes, especially the SDGs.
 
