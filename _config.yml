@@ -17,7 +17,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joshmerfeld/joshmerfeld.github.io"
 teaser                   : "merfeld_preview.png"
 breadcrumbs              : false # true, false (default)
-seo_description          : "Site for Josh Merfeld, Associate Professor at KDIS"
+seo_description          : "Site for Josh Merfeld, Senior Lecturer at UQ"
 words_per_minute         : 160
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Josh Merfeld"
   avatar           : "merfeld.png"
-  bio              : "Development, labor, poverty, and data <br> <br> Associate Professor, KDI School <br> Research Fellow, IZA <br> Invited researcher, J-PAL"
+  bio              : "Development, labor, poverty, and data <br> <br> Senior Lecturer, School of Economics, University of Queensland <br> Research Fellow, IZA <br> Invited researcher, J-PAL"
   location         : "Sejong City, South Korea"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=wPPXKHcAAAAJ&hl=en"
